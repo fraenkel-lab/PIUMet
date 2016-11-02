@@ -1,0 +1,13 @@
+SPHK2	1	Protein
+GLIPR2	1	Protein
+DUMMY	1	Protein
+(2S,3R,4E)-1-(dihydrogen phosphate)2-amino-4-Octadecene-1,3-diol	1	Metabolite
+(-)-D-erythro-Sphingosine	1	Metabolite
+PSAP	1	Protein
+m/z=379.473	1	m/z Peak
+C16 Sphingomyelin	1	Metabolite
+(-)-D-erythro-Sphingosine	1	Metabolite
+SAP18	1	Protein
+GALC	1	Protein
+m/z=299.488	1	m/z Peak
+(E)-DL-erythro-b-D-2-amino-3-hydroxy-4-octadecenyl Galactopyranoside	1	Metabolite

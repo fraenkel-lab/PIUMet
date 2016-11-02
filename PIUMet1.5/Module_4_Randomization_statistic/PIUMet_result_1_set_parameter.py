@@ -1,0 +1,129 @@
+#this code will provide a PIUMet output for one set of w,beta and mu paramter
+#
+#
+#by:Leila Pirhaji
+#----------------------------------
+#Importing my functions
+from Module_3_Optimization.PCSF_run_class import PCSF_run_class
+#-------------------------
+#loading Module 4 classes:
+from Module_4_Randomization_statistic.rand_interactome_class import rand_interactome_class
+from Module_4_Randomization_statistic.resulting_union_net_class import resulting_union_net_class
+
+
+
+#-------------------------------------------
+class PIUMet_result_1_set_parameter(object):
+
+	def __init__(self, PIUMet_input, w, beta, mu, dummyCon, msgpath, result_path, Da, R):	
+
+		#now running PCSF optimization
+		self.PIUMet_PCSFout = PCSF_run_class(PIUMet_input, w, beta, mu, dummyCon, msgpath)
+
+		#---------------------------------
+		#now running PCSF by adding random noises to edge weights for R times
+		print ("running optimization by adding random noises to the interactome edge weights for %s times" % R)
+		self.PIUMet_PCSFout_rand_list = self.runPCSF_R_times(PIUMet_input, w, beta, mu, dummyCon,
+											 msgpath, R)
+	
+		#---------------------------------
+		#now getting the statistic of the resulting networks
+		print ("Calculating the statistics and writing the resulting files")
+		self.PIUMet_union_result = resulting_union_net_class(self.PIUMet_PCSFout, 
+						self.PIUMet_PCSFout_rand_list, result_path, w, beta, mu, R)
+		
+		#--------------------------------------
+		#writing the output summary file
+		self.writing_output_summary_file(result_path, w, beta, mu, Da, R, PIUMet_input)
+
+
+
+	#------------------------------------------------------------------------------------
+	def runPCSF_R_times(self, PIUMet_input, w, beta, mu, dummyCon, msgpath, R):
+		""" Runs PCSF optimization R times """
+       		noise = 0.04567861
+	        PIUMet_PCSFout_rand_list = []
+    		if int(R) != 0:
+        		for i in range(1, int(R) + 1):
+            			print ("randomization number %s:" % str(i))
+            			PIUMet_input_rand = PIUMet_input
+				PIUMet_input_rand.interactome.net = rand_interactome_class(PIUMet_input.interactome.net, noise).net_rand
+            			PIUMet_input_rand.mzMet_net_union = rand_interactome_class(PIUMet_input.mzMet_net_union, noise).net_rand
+            			PIUMet_PCSFout_rand = PCSF_run_class(PIUMet_input_rand, w, beta, mu, dummyCon, msgpath)
+            			self.PIUMet_PCSFout_rand_list.append(PIUMet_PCSFout_rand)
+    		return PIUMet_PCSFout_rand_list
+	
+	#-------------------------------------------------------------------------------------
+	def calculate_statistics(self, PIUMet_input):
+    		# writing the info about m/z values.
+    		nMZ = 0
+    		nMZ_all_deg = 0
+    		mzMatchedMet_all = []
+    		for mz in PIUMet_input.mz_terminal:
+        		# print len(mz.mzMatchedMet)
+        		nMZ_all_deg = nMZ_all_deg + len(mz.mzMatchedMet)
+        		mzMatchedMet_all = mzMatchedMet_all + mz.mzMatchedMet
+        		if len(mz.mzMatchedMet) != 0:
+            			nMZ = nMZ + 1
+
+    		# writing about the peaks that their matched metabolites exist in the interactome
+    		nMZ_ppmi = 0
+    		for node in PIUMet_input.mzMet_net_union.nodes():
+        		if len(node) > 4 and node[:4] == "m/z=":
+            			nMZ_ppmi = nMZ_ppmi + 1
+
+    		# now writing the statisitc about results
+    		nMZ_all = 0
+    		nMZ_result = 0
+    		nNode_tree = 0  # non-singleton nodes
+    		for node in self.PIUMet_union_result.union_net.nodes():
+        		if len(node) > 4 and node[:4] == "m/z=":
+            			nMZ_all = nMZ_all + 1
+            			if self.PIUMet_union_result.union_net.neighbors(node) != ['DUMMY']:
+                			nMZ_result = nMZ_result + 1
+        		else:
+            			nNode_tree = nNode_tree + 1
+
+    		# number of edges in the results
+    		nEdge_tree = 0
+    		for edge in self.PIUMet_union_result.union_net.edges():
+        		if edge[0] != 'DUMMY' and edge[1] != 'DUMMY':
+            			nEdge_tree = nEdge_tree + 1
+
+    		return nMZ, nMZ_all_deg, nMZ_ppmi, nMZ_result, nNode_tree, nEdge_tree, nMZ_all
+
+	#------------------------------------------------------------------------------------------
+	#this function will write a summary of the output files
+	def writing_output_summary_file(self, result_path, w, beta, mu, Da, R, PIUMet_input):
+
+		#writing a summary file, including 1. #m/z 2. #machced metabolites 3. #matched metabolites in the interactome, 4. size of the network 5. summary of parameters
+		print ("writing a result_summary file")
+		if result_path[:-1]=="/":
+			f=open(result_path+("result_summary_w%s_b%s_mu%s_R%s.txt" %( w, beta, mu, R)),'w')
+		else:
+			f=open(result_path+"/"+("result_summary_w%s_b%s_mu%s_R%s.txt" %(w, beta, mu, R)),'w')
+		f.write('Summary of the results, for the following parameters:\n')
+		f.write(('w=%s, beta=%s, mu=%s, Da=%s, R=%s \n') %( w, beta, mu, Da, R))
+
+		#-------------------------------------------
+		# getting the relevant statistics
+		nMZ, nMZ_all_deg, nMZ_ppmi, nMZ_result, nNode_tree, nEdge_tree, nMZ_all = self.calculate_statistics(PIUMet_input)
+
+		#-------------------------------------------
+		#writing the info about m/z values.
+		f.write(('%s peaks are matched to %s metabolites in HMDB and Recon\n') %(nMZ, nMZ_all_deg))
+
+		#-------------------------------------------
+		#writing about the peaks that their matched metabolites exist in the interactome
+		f.write(('%s peaks are mathced to %s metabolites in the PPMI network\n') %(nMZ_ppmi, len(PIUMet_input.mzMet_net_union.nodes())-nMZ_ppmi))
+
+		#-------------------------------------------
+		#now writing the statistics about results
+		f.write("The resulting network info:\n")
+		f.write(("-Number of nodes=%s\n") %(str(nMZ_result+nNode_tree)))
+		f.write(("-Number of edges=%s\n") %(str(nEdge_tree)))
+		f.write(("-Number of m/z peaks in the results=%s\n") %(str(nMZ_result)))
+		f.write(("-Number of m/z peaks remain as singleton=%s\n") %(str(nMZ_all-nMZ_result)))
+		f.close()
+	
+

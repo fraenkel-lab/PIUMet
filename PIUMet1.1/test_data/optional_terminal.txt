@@ -1,0 +1,4 @@
+HMDB10169	2.7	Metabolite
+HMDB00648	1.4	Metabolite
+SGPL1	2.6	Gene_Protein
+SMPD3	1.9	Gene_Protein

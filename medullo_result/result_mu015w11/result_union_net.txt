@@ -1,0 +1,229 @@
+AOC3	5-Amino-pentanal	2
+AOC3	3-Aminopropanal	1
+AOC3	ATP4A	1
+m/z=122.9034	AArsenite (AsO33-)	3
+m/z=118.0175	2-Oxomalonic acid	3
+m/z=320.0	Met18506	3
+GNPAT	PEX5	1
+GNPAT	PTS	1
+ABP1	5-Amino-pentanal	1
+ABP1	1H-Indol-3-ylacetaldehyde	1
+5-Amino-pentanal	m/z=101.1282	3
+5-Amino-pentanal	m/z=101.1283	3
+(6S)-Tetrahydrofolate	DHFR	1
+(6S)-Tetrahydrofolate	MTR	1
+(6S)-Tetrahydrofolate	FTCD	1
+PLIN3	UBA5	1
+PLIN3	MTMR2	1
+PLIN3	M6PR	1
+1D-Myo-Inositol 1,2-cyclic phosphate	m/z=242.1443	3
+1D-Myo-Inositol 1,2-cyclic phosphate	ANXA3	3
+m/z=355.9089	Amodiaquin;Amodiaquine Hydrochloride;Amodiaquine USP24;Amodiaquine, ring-closed	3
+GPAM	MTMR2	1
+GPAM	1-(Dihydrogen phosphate) Glycerol	1
+1,2-Didehydropiperidine-2-carboxylate	m/z=127.1311	1
+3,4 Dihydroxymandelate	MYO5B	1
+3,4 Dihydroxymandelate	m/z=184.1284	1
+Cis-DDP;Cis-Diamminedichloroplatinum;Platinum Ammine Chloride;Trans-DDP	CYP2C9	1
+Cis-DDP;Cis-Diamminedichloroplatinum;Platinum Ammine Chloride;Trans-DDP	ABCB1	3
+Cis-DDP;Cis-Diamminedichloroplatinum;Platinum Ammine Chloride;Trans-DDP	m/z=298.0	3
+Cis-DDP;Cis-Diamminedichloroplatinum;Platinum Ammine Chloride;Trans-DDP	BCHE	1
+1H-Indol-3-ylacetaldehyde	m/z=159.1808	1
+1H-Indol-3-ylacetaldehyde	ALDH2	1
+BSG	SLC2A4	1
+BSG	ATP4A	1
+m/z=136.9697	Ansar	3
+Procasil;Propacil;Propilthiouracil;Propycil;Propyl-Thiorist;Propyl-Thiorit;Propyl-Thyracil;Propylthiorit;Propythiouracil;Prothiucil;Prothiurone;Prothycil;Prothyran;Protiural;Thiuragyl	TPO	2
+Procasil;Propacil;Propilthiouracil;Propycil;Propyl-Thiorist;Propyl-Thiorit;Propyl-Thyracil;Propylthiorit;Propythiouracil;Prothiucil;Prothiurone;Prothycil;Prothyran;Protiural;Thiuragyl	DBH	2
+TPO	(alpha)-(beta)-di-dehydroalanine	3
+TPO	Iodide	3
+AHCYL2	2-Amino-4-selanyl-butanoate	1
+AHCYL2	(+-)-homocysteine	1
+WNK1	KIAA0232	1
+WNK1	ME2	1
+CREB3	SLC2A3	1
+CREB3	SLC29A1	1
+(2R)-3-hydroxy-2-(phosphonooxy)propanoate	ENO1	1
+(2R)-3-hydroxy-2-(phosphonooxy)propanoate	m/z=186.0097	1
+1,6-Didehydropiperidine-2-carboxylate	m/z=127.1311	3
+1,6-Didehydropiperidine-2-carboxylate	PIPOX	3
+m/z=266.0	(2R)-2,3-bis(phosphonooxy)-Propanoate	2
+m/z=266.0	1,3-Biphosphoglycerate	1
+m/z=156.17	(S)-3-(5-oxo-4,5-dihydro-3H-imidazol-4-yl)propanoate	3
+2-Amino-4-selanyl-butanoate	CBS	1
+2-Amino-4-selanyl-butanoate	m/z=182.0707	1
+m/z=174.1398	AcAsn	3
+m/z=174.1398	Formimino-glu	3
+m/z=174.1398	1-Dehydroascorbate	2
+m/z=174.1398	DUMMY	2
+Cob(I)alamin	MMAA	1
+Cob(I)alamin	MTR	1
+IP6K1	Biphosphate	1
+IP6K1	RAB3IL1	1
+DBH	Disulfuram;Disulphuram;Dupon 4472;Dupont Fungicide 4472;TATD;TETD;Tetraethylthioperoxydicarbonic Diamide;Tetraethylthiram Disulfide;Tetraethylthiram Disulphide;Tetraethylthiuram;Tetraethylthiuram Disulfide;Tetraethylthiuram Disulphide;Tetraethylthiuram Sulfide;Tetraethylthiuran Disulfide;TTD;Usaf B-33	2
+DBH	1-Dehydroascorbate	2
+(S)-3-(5-oxo-4,5-dihydro-3H-imidazol-4-yl)propanoate	AMDHD1	3
+ACYP1	Acetyl phosphate	3
+ACYP1	1,3-Biphosphoglycerate	1
+ACYP1	3-(Dihydrogen phosphate)Glycerate	2
+m/z=404.0	Chlorperphenazine;Etaperazin;Etaperazine;Ethaperazine;Perfenazina;Perfenazine;Perphenazin;PZC	3
+5'-CMP	ACP2	1
+SLC2A4	EHD2	2
+SLC2A4	1-Dehydroascorbate	2
+SLC2A4	CRNKL1	1
+SLC2A3	1-Dehydroascorbate	1
+1,3-Biphosphoglycerate	PGK1	1
+SLC2A1	1-Dehydroascorbate	1
+SLC2A1	ATF2	1
+GK3P	1,2,3-Trihydroxypropane	1
+GK3P	1-(Dihydrogen phosphate) Glycerol	1
+1H-Indol-3-ylacetaldehyde	m/z=159.1808	1
+MMAA	(phosphate)N	1
+m/z=182.0707	2-Amino-4-selanyl-butanoate	2
+FDX1	Met18506	1
+FDX1	ASNA1	1
+m/z=494.0	Apo-Glibenclamide;Glibenclamida [INN-Spanish];Glibenclamide;Glibenclamidum [INN-Latin]	3
+Amodiaquin;Amodiaquine Hydrochloride;Amodiaquine USP24;Amodiaquine, ring-closed	CYP2C9	3
+Acetylvaline	GLYATL2	1
+Acetylvaline	m/z=159.1808	2
+Acetylvaline	GLYATL1	1
+FK-506	ABCB1	3
+FK-506	m/z=804.0	3
+4-Amino-butanal	m/z=87.0764	1
+GRIA1	RAB11A	2
+GRIA1	Desflurano [INN-Spanish];Desfluranum [INN-Latin]	2
+m/z=186.0097	3-(Dihydrogen phosphate)Glycerate	2
+SLC29A1	1-b-D-Ribofuranosyl-2,4(1H,3H)-pyrimidinedione	1
+SLC29A1	1-(2-Deoxy-b-D-erythro-pentofuranosyl)-5-methyl-2,4(1H,3H)-pyrimidinedione	1
+1-b-D-Ribofuranosyl-2,4(1H,3H)-pyrimidinedione	m/z=244.1599	1
+1-b-D-Ribofuranosyl-2,4(1H,3H)-pyrimidinedione	NT5M	1
+m/z=168.0199	2-Hydroxy-Acrylic acid dihydrogen phosphate	1
+m/z=168.0199	Desflurano [INN-Spanish];Desfluranum [INN-Latin]	2
+1-(2-Deoxy-beta-D-erythro-pentofuranosyl)-2,4(1H,3H)-Pyrimidinedione	m/z=228.1648	1
+1-(2-Deoxy-beta-D-erythro-pentofuranosyl)-2,4(1H,3H)-Pyrimidinedione	NT5M	1
+1-(2-Deoxy-beta-D-erythro-pentofuranosyl)-2,4(1H,3H)-Pyrimidinedione	UPP2	2
+1-(2-Deoxy-beta-D-erythro-pentofuranosyl)-2,4(1H,3H)-Pyrimidinedione	m/z=228.1648	2
+m/z=144.17	1-Heptanecarboxylate	3
+GK2	1-(Dihydrogen phosphate) Glycerol	1
+GK2	GPD2	1
+RAB11A	RAB3IL1	1
+RAB11A	ATP4A	1
+RAB11A	ME2	2
+RAB11A	MYO5B	1
+RAB11A	ATF2	1
+ANXA11	ANXA3	1
+ANXA11	ATP4A	1
+m/z=230.1441	1-O-Phosphono-D-ribofuranose	2
+m/z=230.1441	1-(Dihydrogen phosphate) D-threo-Pentulose	1
+m/z=230.1441	alpha-D-Ribose 5-phosphate	1
+PTS	ATM	1
+PTS	(phosphate)N	2
+3-Aminopropanal	ALDH2	1
+PGK1	ENO1	1
+PGK1	UBA5	1
+SIRT3	PEX5	1
+SIRT3	ALDH2	1
+DFP;Diflupyl;Diflurophate;Diisopropoxyphosphoryl Fluoride	ACHE	1
+DFP;Diflupyl;Diflurophate;Diisopropoxyphosphoryl Fluoride	BCHE	1
+DFP;Diflupyl;Diflurophate;Diisopropoxyphosphoryl Fluoride	m/z=184.1284	2
+1-(Dihydrogen phosphate) D-threo-Pentulose	ALDOA	1
+m/z=336.2733	Bis-Hydroxycoumarin;Bishydroxycoumarin;Dicoumarin;Dicoumarol	3
+m/z=317.2637	Met21873	3
+1-Heptanecarboxylate	SLC22A6	3
+m/z=140.0025	Acetyl phosphate	3
+(phosphate)N	m/z=258.0	1
+3'''-O-Acetyldigitoxin	m/z=807.0	3
+3'''-O-Acetyldigitoxin	ATP1A1	3
+2-Amino-4-selanyl-butanoate	AHCY	1
+m/z=87.0764	(alpha)-(beta)-di-dehydroalanine	3
+ABCG2	Met36439	3
+ABCG2	Apo-Glibenclamide;Glibenclamida [INN-Spanish];Glibenclamide;Glibenclamidum [INN-Latin]	3
+PEX5	PIPOX	3
+PEX5	ATM	1
+PEX5	CRNKL1	1
+Biphosphate	m/z=95.9935	2
+Biphosphate	ACP2	2
+Biphosphate	m/z=95.9936	2
+M6PR	ACP2	2
+M6PR	ATP4A	1
+GLYATL1	AcAsn	2
+GLYATL1	N-N-Valerylglycine	1
+GLYATL1	2-Acetamido-L-Glutaraldehydate	1
+Met18506	CYP11B1	2
+2',3'-Didehydro-3'-deoxythimidine;3'-Deoxy-2'-thymidinene;Estavudina [INN-Spanish];Sanilvudine;Stavudine [Usan:Ban:Inn];Stavudinum [INN-Latin];STV	SLC22A6	3
+2',3'-Didehydro-3'-deoxythimidine;3'-Deoxy-2'-thymidinene;Estavudina [INN-Spanish];Sanilvudine;Stavudine [Usan:Ban:Inn];Stavudinum [INN-Latin];STV	m/z=224.1698	3
+Met10202	CYP2C9	2
+Met10202	SLC22A6	1
+Met10202	m/z=142.1544	3
+m/z=837.0	Met30116	3
+CBS	UBA5	1
+SLC22A6	Apo-Glibenclamide;Glibenclamida [INN-Spanish];Glibenclamide;Glibenclamidum [INN-Latin]	3
+UBA5	ALDH2	1
+m/z=406.0	Met41448	3
+5-Fluorouracil	CYP2C9	2
+5-Fluorouracil	UPP2	2
+m/z=172.0286	1-(Dihydrogen phosphate) Glycerol	3
+1-(2-Deoxy-b-D-erythro-pentofuranosyl)-5-methyl-2,4(1H,3H)-pyrimidinedione	m/z=242.1806	2
+1-(2-Deoxy-b-D-erythro-pentofuranosyl)-5-methyl-2,4(1H,3H)-pyrimidinedione	ACP2	2
+Met41448	ABCB1	3
+ACP2	1-b-D-Ribofuranosyl-2,4(1H,3H)-pyrimidinedione	2
+ACP2	2'-Deoxy-5'-GMP	1
+(+-)-homocysteine	MTR	1
+ATM	ATF2	1
+m/z=234.1543	Met36439	3
+Formimino-glu	AMDHD1	3
+Formimino-glu	FTCD	1
+2-Oxomalonic acid	m/z=118.0177	3
+2-Oxomalonic acid	m/z=118.0176	3
+2-Oxomalonic acid	ME2	3
+AS3MT	AArsenite (AsO33-)	3
+AS3MT	Ansar	3
+AS3MT	(2S)-2-amino-4-(methylsulfanyl)butanoate	2
+m/z=258.0	(phosphate)N	2
+Bis-Hydroxycoumarin;Bishydroxycoumarin;Dicoumarin;Dicoumarol	CYP2C9	3
+Acetate	ALDH2	1
+Acetate	SDS	1
+Apo-Glibenclamide;Glibenclamida [INN-Spanish];Glibenclamide;Glibenclamidum [INN-Latin]	CYP2C9	3
+Apo-Glibenclamide;Glibenclamida [INN-Spanish];Glibenclamide;Glibenclamidum [INN-Latin]	ABCB1	1
+3-(Dihydrogen phosphate)Glycerate	BPGM	2
+1-O-Phosphono-D-ribofuranose	UPP2	2
+DUMMY	m/z=159.1808	1
+(2S)-2-amino-4-(methylsulfanyl)butanoate	MTR	1
+(2S)-2-amino-4-(methylsulfanyl)butanoate	NAGS	1
+ENO1	ACHE	1
+ENO1	2-Hydroxy-Acrylic acid dihydrogen phosphate	1
+IGSF21	ANXA3	1
+IGSF21	ALDH2	1
+ASNA1	AArsenite (AsO33-)	1
+ASNA1	EIF6	1
+Iodide	m/z=126.8719	3
+CYP2C9	Pantoloc	1
+CYP2C9	Chlorperphenazine;Etaperazin;Etaperazine;Ethaperazine;Perfenazina;Perfenazine;Perphenazin;PZC	3
+CYP2C9	Disulfuram;Disulphuram;Dupon 4472;Dupont Fungicide 4472;TATD;TETD;Tetraethylthioperoxydicarbonic Diamide;Tetraethylthiram Disulfide;Tetraethylthiram Disulphide;Tetraethylthiuram;Tetraethylthiuram Disulfide;Tetraethylthiuram Disulphide;Tetraethylthiuram Sulfide;Tetraethylthiuran Disulfide;TTD;Usaf B-33	3
+CYP2C9	Met21873	3
+CYP2C9	Met25191	2
+Disulfuram;Disulphuram;Dupon 4472;Dupont Fungicide 4472;TATD;TETD;Tetraethylthioperoxydicarbonic Diamide;Tetraethylthiram Disulfide;Tetraethylthiram Disulphide;Tetraethylthiuram;Tetraethylthiuram Disulfide;Tetraethylthiuram Disulphide;Tetraethylthiuram Sulfide;Tetraethylthiuran Disulfide;TTD;Usaf B-33	ALDH2	1
+(alpha)-(beta)-di-dehydroalanine	SDS	1
+1-(2-Deoxy-b-D-erythro-pentofuranosyl)-5-methyl-2,4(1H,3H)-pyrimidinedione	m/z=242.1806	1
+m/z=159.1808	N-N-Valerylglycine	1
+ALDH2	SLC35F6	1
+ALDH2	EIF6	1
+GLYATL2	AcAsn	1
+ATP1A1	Pantoloc	1
+ATP1A1	ATP4A	1
+ATP1A1	ATF2	1
+BPGM	(2R)-2,3-bis(phosphonooxy)-Propanoate	2
+BPGM	EHD2	2
+DHFR	1,2,3-Trihydroxypropane	1
+KIAA0232	SLC35F6	1
+Biphosphate	m/z=95.9935	1
+Biphosphate	m/z=95.9936	1
+GPD2	ALDOA	1
+ABCB1	Met30116	3
+ABCB1	Met25191	1
+2-Acetamido-L-Glutaraldehydate	NAGS	1
+1-b-D-Ribofuranosyl-2,4(1H,3H)-pyrimidinedione	m/z=244.1599	2
+ANXA3	ATF2	1
+ALDOA	ATF2	1
+CYP11B1	Met25191	2
+AHCY	ATF2	1

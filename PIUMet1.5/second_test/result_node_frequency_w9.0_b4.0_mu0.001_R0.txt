@@ -1,0 +1,13 @@
+N-Palmitoylsphingosine	1	Metabolite	HMDB00790
+Sphingosine 1-phosphate	1	Metabolite	HMDB00277
+SGPL1	1	Protein	 
+Sphinganine 1-phosphate	1	Metabolite	HMDB01383
+m/z=537.913	1	m/z Peak	 
+m/z=379.473	1	m/z Peak	 
+Sphingosine 1-phosphate	1	Metabolite	HMDB00277
+m/z=652.123	1	m/z Peak	 
+SPHK2	1	Protein	 
+Sphingosine	1	Metabolite	HMDB00252
+m/z=809.673	1	m/z Peak	 
+m/z=299.488	1	m/z Peak	 
+SGPP1	1	Protein	 

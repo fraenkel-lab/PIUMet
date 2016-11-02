@@ -1,0 +1,189 @@
+(-)-Inosine	1
+AOC3	2
+m/z=122.9034	3
+ERBB2IP	1
+m/z=320.0	3
+m/z=156.17	3
+ABP1	1
+5-Amino-pentanal	3
+SULT1E1	1
+PAH	1
+2-Amino-1,9-dihydro-9-b-D-ribofuranosyl-6H-purin-6-one	1
+MAOB	1
+AMDHD1	3
+1D-Myo-Inositol 1,2-cyclic phosphate	3
+AcAsn	1
+3'''-O-Acetyldigitoxin	3
+AHCYL1	1
+AHCYL2	1
+CACNA1A	2
+Cis-DDP;Cis-Diamminedichloroplatinum;Platinum Ammine Chloride;Trans-DDP	3
+m/z=136.9697	3
+CDKN2C	1
+TPO	1
+1-(2-Deoxy-b-D-ribofuranosyl)cytosine	1
+FXR2	1
+1,6-Didehydropiperidine-2-carboxylate	3
+m/z=266.0	3
+Biphosphate	1
+GNPAT	1
+2-Amino-4-selanyl-butanoate	2
+m/z=174.1398	3
+GK	1
+IP6K1	1
+CFTR	2
+(S)-3-(5-oxo-4,5-dihydro-3H-imidazol-4-yl)propanoate	3
+ACYP1	3
+m/z=404.0	3
+SNAP23	1
+RBM48	2
+(alpha)-(beta)-di-dehydroalanine	1
+FK-506	3
+1,3-Biphosphoglycerate	1
+ATR	1
+1H-Indol-3-ylacetaldehyde	1
+m/z=182.0707	3
+FDX1	3
+m/z=494.0	3
+Amodiaquin;Amodiaquine Hydrochloride;Amodiaquine USP24;Amodiaquine, ring-closed	3
+Acetylvaline	1
+Desflurano [INN-Spanish];Desfluranum [INN-Latin]	3
+m/z=101.1282	3
+m/z=101.1283	3
+2'-Deoxythymidine 5'-monophosphate	1
+GRIA1	3
+2-Deoxy-alpha-D-ribose 1-phosphate	1
+BCHE	2
+SLC29A1	1
+1-b-D-Ribofuranosyl-2,4(1H,3H)-pyrimidinedione	1
+m/z=168.0199	3
+N-N-Valerylglycine	1
+1-(2-Deoxy-beta-D-erythro-pentofuranosyl)-2,4(1H,3H)-Pyrimidinedione	3
+m/z=144.17	3
+WDR48	1
+RAB11A	3
+DIO2	1
+m/z=230.1441	3
+PTS	3
+m/z=242.1806	3
+PGK1	1
+2-Amino-1,9-dihydro-9-b-D-ribofuranosyl-6H-purin-6-one	1
+m/z=336.2733	3
+m/z=317.2637	3
+1-Heptanecarboxylate	3
+m/z=140.0025	3
+GPAM	1
+TK2	1
+MIA3	1
+2-Amino-4-selanyl-butanoate	1
+m/z=87.0764	3
+m/z=807.0	3
+4-Chlor-N-(2-morpholinoethyl)benzamid;4-Chloro-N-(2-(4-morpholinyl)ethyl)benzamide;4-Chloro-N-(2-morpholin-4-yl-ethyl)-benzamide;Moclaime;Moclamide;Moclamine;Moclobemid;Moclobemida [INN-Spanish];Moclobemide [Usan:Ban:Inn];Moclobemidum [INN-Latin];p-Chloro-N-(2-morpholinoethyl)benzamide	1
+ABCG2	3
+GSTO1	1
+PEX5	3
+Biphosphate	2
+m/z=258.0	3
+Met18506	3
+2',3'-Didehydro-3'-deoxythimidine;3'-Deoxy-2'-thymidinene;Estavudina [INN-Spanish];Sanilvudine;Stavudine [Usan:Ban:Inn];Stavudinum [INN-Latin];STV	3
+Met10202	3
+m/z=837.0	3
+CBS	1
+SLC22A6	3
+FTCD	2
+2'-Deoxy-Guanosine	1
+m/z=406.0	3
+UBE2J1	1
+1-(2-Deoxy-b-D-erythro-pentofuranosyl)-5-methyl-2,4(1H,3H)-pyrimidinedione	1
+m/z=172.0286	3
+ASNA1	3
+Met41448	3
+ACP2	2
+HDAC6	1
+m/z=234.1543	3
+Formimino-glu	3
+2-Oxomalonic acid	3
+PGAM1	1
+AS3MT	3
+(6R,S)-5-Formyltetrahydrofolate	2
+1-(Dihydrogen phosphate) Glycerol	1
+m/z=242.1443	3
+Bis-Hydroxycoumarin;Bishydroxycoumarin;Dicoumarin;Dicoumarol	3
+PSMA3	1
+Apo-Glibenclamide;Glibenclamida [INN-Spanish];Glibenclamide;Glibenclamidum [INN-Latin]	3
+m/z=298.0	3
+3-(Dihydrogen phosphate)Glycerate	3
+1-(Dihydrogen phosphate) Glycerol	2
+1-O-Phosphono-D-ribofuranose	3
+DUMMY	3
+IGSF21	1
+MTHFS	1
+1,4-Methyl-imidazoleacetic acid	1
+m/z=118.0177	3
+m/z=118.0176	3
+m/z=118.0175	3
+m/z=127.1311	3
+Iodide	2
+Iodide	1
+CYP2C9	3
+Met30116	3
+m/z=126.8719	3
+1-(2-Deoxy-b-D-erythro-pentofuranosyl)-5-methyl-2,4(1H,3H)-pyrimidinedione	2
+PIPOX	3
+4-Amino-butanal	3
+m/z=159.1808	3
+STX4	1
+2'-Deoxythymidine 5'-monophosphate	1
+ME2	3
+ALDH3B2	1
+ATP1A1	3
+ABCA1	1
+AArsenite (AsO33-)	3
+m/z=186.0097	3
+Met21873	3
+AOX1	1
+Met10754	2
+DDO	1
+alpha-D-Ribose 5-phosphate	2
+BPGM	2
+ Ammonia anhydrous	1
+DDI;Dideoxyinosine	1
+DFP;Diflupyl;Diflurophate;Diisopropoxyphosphoryl Fluoride	3
+3,4 Dihydroxymandelate	1
+(2R)-2,3-bis(phosphonooxy)-Propanoate	2
+SLC5A5	1
+(phosphate)N	3
+RAB3IL1	1
+m/z=184.1284	3
+Pantoloc	1
+PFKP	1
+m/z=355.9089	3
+ABCB1	3
+m/z=228.1648	3
+PDZK1	2
+1-b-D-Ribofuranosyl-2,4(1H,3H)-pyrimidinedione	2
+1-(2-Deoxy-beta-D-erythro-pentofuranosyl)-2,4(1H,3H)-Pyrimidinedione	1
+ANXA3	3
+m/z=244.1599	3
+Ansar	3
+Benzyl-methyl-2-propinylamin;Methylbenzylpropynylamine;Methylbenzylpropynylamine hydrochloride;N-Benzyl-N-methyl-2-propyn-1-amine;N-Benzyl-N-methyl-2-propynylamine;N-Benzyl-N-methyl-2-propynylamine hydrochloride;N-Methyl-N-2-propynylbenzylamine;Paragyline;Pargylamine;Pargylin;Pargyline chloride;Pargyline hydrochloride	1
+Acetyl phosphate	3
+Met15067	1
+m/z=142.1544	3
+m/z=95.9935	3
+m/z=95.9936	3
+Met36439	3
+m/z=224.1698	3
+UPP2	1
+VAMP2	2
+ATP4A	2
+PNP	2
+m/z=804.0	3
+TYMS	1
+TYMP	1
+GLYAT	2
+Chlorperphenazine;Etaperazin;Etaperazine;Ethaperazine;Perfenazina;Perfenazine;Perphenazin;PZC	3
+Pemirolast Potassium;Pemirolastum [INN-Latin];Pemiroplast Potassium	1
+YLPM1	1
+ABCC2	2
+M6PR	2

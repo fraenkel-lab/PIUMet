@@ -1,0 +1,17 @@
+PLAUR	1	Protein
+SPHK2	2	Protein
+GLIPR2	1	Protein
+C16 Sphingomyelin	2	Metabolite
+DUMMY	2	Protein
+PSAP	2	Protein
+SEC24B	1	Protein
+GALC	1	Protein
+(2S,3R,4E)-1-(dihydrogen phosphate)2-amino-4-Octadecene-1,3-diol	2	Metabolite
+FGR	1	Protein
+(-)-D-erythro-Sphingosine	2	Metabolite
+(-)-D-erythro-Sphingosine	1	Metabolite
+SAP18	1	Protein
+m/z=379.473	2	m/z Peak
+m/z=299.488	2	m/z Peak
+DAB2	1	Protein
+(E)-DL-erythro-b-D-2-amino-3-hydroxy-4-octadecenyl Galactopyranoside	1	Metabolite

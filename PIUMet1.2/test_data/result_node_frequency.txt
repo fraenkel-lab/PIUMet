@@ -1,0 +1,12 @@
+DUMMY	1	Protein
+ITGA3	1	Protein
+SPHK2	1	Protein
+m/z=379.473	1	m/z Peak
+CD82	1	Protein
+(2S,3R,4E)-1-(dihydrogen phosphate)2-amino-4-Octadecene-1,3-diol	1	Metabolite
+FHL2	1	Protein
+m/z=299.488	1	m/z Peak
+C16 Sphingomyelin	1	Metabolite
+(-)-D-erythro-Sphingosine	1	Metabolite
+B3GAT1	1	Protein
+HLA-DMA	1	Protein

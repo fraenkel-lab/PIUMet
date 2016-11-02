@@ -1,0 +1,4 @@
+SPHK2 (pp) Sphingosine	2
+SPHK2 (pp) Sphingosine 1-phosphate	2
+m/z=379.473 (pp) Sphingosine 1-phosphate	2
+m/z=299.488 (pp) Sphingosine	2

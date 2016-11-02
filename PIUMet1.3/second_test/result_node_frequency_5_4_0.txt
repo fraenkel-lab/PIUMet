@@ -1,0 +1,8 @@
+SPHK2	1	Protein	 
+m/z=537.913	1	m/z Peak	 
+m/z=379.473	1	m/z Peak	 
+Sphingosine 1-phosphate	1	Metabolite	HMDB00277
+m/z=652.123	1	m/z Peak	 
+Sphingosine	1	Metabolite	HMDB00252
+m/z=809.673	1	m/z Peak	 
+m/z=299.488	1	m/z Peak	 

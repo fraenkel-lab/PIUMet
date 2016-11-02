@@ -1,0 +1,10 @@
+N-Palmitoylsphingosine (pp) SGPL1	1
+N-Palmitoylsphingosine (pp) m/z=537.913	1
+Sphingosine 1-phosphate (pp) m/z=379.473	1
+Sphingosine 1-phosphate (pp) SGPP1	1
+SGPL1 (pp) Sphinganine 1-phosphate	1
+Sphinganine 1-phosphate (pp) SGPP1	1
+m/z=379.473 (pp) Sphingosine 1-phosphate	1
+Sphingosine 1-phosphate (pp) SPHK2	1
+SPHK2 (pp) Sphingosine	1
+Sphingosine (pp) m/z=299.488	1
