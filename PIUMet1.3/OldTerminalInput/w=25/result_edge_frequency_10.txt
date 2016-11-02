@@ -1,0 +1,648 @@
+m/z=59.0419 (pp) Guanidine	7
+ELANE (pp) UROD	1
+ELANE (pp) GAMT	1
+ELANE (pp) SERPINF2	1
+Inosine (pp) m/z=268.2379	4
+Inosine (pp) SLC29A2	4
+m/z=152.1077 (pp) B-Sulfinyl pyruvate	1
+m/z=152.1077 (pp) N1-Methyl-4-pyridone-3-carboxamide	1
+m/z=152.1077 (pp) L-Arabitol	5
+m/z=152.1077 (pp) N1-Methyl-2-pyridone-5-carboxamide	7
+m/z=152.1077 (pp) B-Sulfinyl pyruvate	1
+Propionyl-CoA (pp) AACS	1
+Propionyl-CoA (pp) MLYCD	2
+Propionyl-CoA (pp) m/z=823.5586	11
+Propionyl-CoA (pp) BAAT	1
+Propionyl-CoA (pp) ACSS2	7
+ASS1 (pp) GSS	5
+ASS1 (pp) Canavaninosuccinate	7
+ASS1 (pp) IDH1	4
+ASS1 (pp) PEPD	1
+ASS1 (pp) Argininosuccinic acid	2
+ASS1 (pp) CNDP2	4
+N-Acetyl-L-glutamate 5-semialdehyde (pp) m/z=173.1847	1
+N-Acetyl-L-glutamate 5-semialdehyde (pp) ALDH18A1	1
+L-Histidine (pp) SLC15A3	1
+L-Histidine (pp) m/z=155.1592	1
+DLG5 (pp) TERF1	1
+DLG5 (pp) ABCA1	1
+PPP4C (pp) GLYATL3	2
+PPP4C (pp) TRMT1L	1
+PPP4C (pp) DSP	1
+PPP4C (pp) SMEK2	1
+m/z=467.1381 (pp) dCTP	11
+PRNP (pp) CNP	1
+PRNP (pp) BCL2	1
+m/z=425.3357 (pp) Thiamine pyrophosphate	5
+m/z=425.3357 (pp) Thiamine pyrophosphate	6
+ABCD3 (pp) ATP6V1C1	1
+ABCD3 (pp) MMS19	1
+SCLY (pp) Pyridoxine 5'-phosphate	2
+SCLY (pp) ZNF622	1
+SCLY (pp) TERF2IP	1
+SCLY (pp) Hydrogen selenide	11
+SCLY (pp) Pyridoxal 5'-phosphate	1
+SCLY (pp) CNDP2	6
+Uridine 5'-monophosphate (pp) NT5M	2
+m/z=278.2543 (pp) N1-(alpha-D-ribosyl)-5,6-dimethyl-benzimidazole	11
+Glucosamine-1P (pp) UAP1	11
+Glucosamine-1P (pp) m/z=259.131	11
+Sulfate (pp) m/z=96.0877	6
+GYPB (pp) Galactosylglycerol	1
+GYPB (pp) Sorbitol	1
+CNDP1 (pp) Carnosine	1
+CNDP1 (pp) Anserine	6
+CNDP1 (pp) CNDP2	10
+CNDP1 (pp) Homocarnosine	5
+CNDP2 (pp) NAGS	1
+CNDP2 (pp) GLA	8
+CNDP2 (pp) OTC	4
+CNDP2 (pp) AGXT	1
+CNDP2 (pp) PEPD	9
+CNDP2 (pp) PAPD7	1
+CNDP2 (pp) ACSS2	4
+CNDP2 (pp) NDRG1	1
+CNDP2 (pp) CSE1L	1
+Hypoxanthine (pp) SLC29A2	1
+3-Dehydroquinate (pp) m/z=190.1923	11
+3-Dehydroquinate (pp) ENO2	1
+3-Dehydroquinate (pp) m/z=190.1514	11
+NTHL1 (pp) MMS19	1
+NTHL1 (pp) RBL1	1
+NTHL1 (pp) EIF2S3	1
+PHPT1 (pp) N1-(alpha-D-ribosyl)-5,6-dimethyl-benzimidazole	11
+PHPT1 (pp) Thiamine	1
+PHPT1 (pp) 5-Amino-6-ribitylamino uracil	11
+PHPT1 (pp) PTMS	10
+Phenylacetyl-CoA (pp) ESCO1	5
+Phenylacetyl-CoA (pp) m/z=885.6883	5
+m/z=651.1449 (pp) CE(18:1(9Z))	6
+m/z=651.1449 (pp) CE(18:1(11Z))	5
+DSTYK (pp) HSPE1	1
+DSTYK (pp) DDT	1
+PGLS (pp) TERF1	1
+PGLS (pp) UAP1	1
+5-Thymidylic acid (pp) m/z=322.2118	7
+5-Thymidylic acid (pp) NT5M	7
+IDP (pp) NME1	4
+heparan sulfate, degradation product 13 (pp) SGSH	5
+MGST2 (pp) Leukotriene C4	1
+MGST2 (pp) HDHD2	1
+MGST3 (pp) ATP6V1C1	4
+MGST3 (pp) Leukotriene C4	5
+MGST3 (pp) ZMPSTE24	1
+UROD (pp) NME1	5
+UROD (pp) CHRAC1	2
+UROD (pp) Uroporphyrinogen III	11
+UROD (pp) Sulfate	8
+UROD (pp) MTAP	3
+m/z=491.2027 (pp) Deoxyadenosine triphosphate	10
+m/z=491.2027 (pp) Deoxyadenosine triphosphate	1
+m/z=96.0877 (pp) Sulfate	11
+Adenosine tetraphosphate (pp) ACSS1	11
+Adenosine tetraphosphate (pp) m/z=587.2005	11
+PEPD (pp) TERF1	1
+PEPD (pp) L-prolyl-L-glycine 	11
+LTC4S (pp) Leukotriene C4	1
+Adenine (pp) RDH14	1
+Adenine (pp) m/z=135.1208	1
+Adenine (pp) NT5M	1
+Adenine (pp) SLC29A2	1
+Adenine (pp) PNP	4
+Adenine (pp) PECR	1
+Adenine (pp) m/z=135.1208	10
+Adenine (pp) MTAP	6
+Adenine (pp) SLC29A2	2
+m/z=402.381 (pp) 4-Phosphopantothenoylcysteine	10
+m/z=402.381 (pp) 4-Phosphopantothenoylcysteine	1
+5-Amino-6-ribitylamino uracil (pp) m/z=276.2344	11
+5-Amino-6-ribitylamino uracil (pp) m/z=276.2216	11
+CHRAC1 (pp) MTAP	2
+CHRAC1 (pp) NME1	1
+CHRAC1 (pp) THOP1	1
+Thiamine triphosphate (pp) THTPA	1
+Dihydroxyacetone phosphate (pp) ACSS2	3
+Dihydroxyacetone phosphate (pp) ACSS1	3
+DSP (pp) CASP10	1
+DSP (pp) AKR1B1	1
+m/z=154.1303 (pp) Gentisic acid	11
+GART (pp) PLOD2	1
+GART (pp) 5-Phosphoribosylamine	2
+GART (pp) PRUNE	1
+2,5-Diamino-6-(5'-triphosphoryl-3',4'-trihydroxy-2'-oxopentyl)-amino-4-oxopyrimidine (pp) m/z=513.1851	2
+m/z=151.1151 (pp) Guanine	2
+m/z=151.1151 (pp) 3-Sulfinylpyruvic acid	5
+m/z=151.1151 (pp) Guanine	6
+GLYATL3 (pp) Glycocholic acid	1
+GLYATL3 (pp) Hexanoylglycine	1
+GLYATL3 (pp) Suberylglycine	3
+GLYATL1 (pp) N-Acetylleucine	1
+GLYATL1 (pp) Acetylglycine	1
+GLYATL1 (pp) N-Acetylglutamic acid	1
+GLYATL1 (pp) Suberylglycine	1
+CSNK2B (pp) GAMT	2
+CSNK2B (pp) GCH1	2
+SLC22A4 (pp) Guanidine	1
+SLC22A4 (pp) PDZK1	1
+3-Sulfinylpyruvic acid (pp) GOT2	1
+3-Sulfinylpyruvic acid (pp) GOT1	4
+D-Dopachrome (pp) m/z=193.1152	1
+D-Dopachrome (pp) m/z=193.1189	1
+D-Dopachrome (pp) DDT	1
+SOAT1 (pp) CE(20:3(8Z,11Z,14Z))	2
+SOAT1 (pp) TERF1	2
+SOAT1 (pp) cholesterol ester	1
+SOAT1 (pp) CE(18:1(11Z))	1
+SOAT1 (pp) Cholesterol	1
+SOAT1 (pp) CE(22:5(7Z,10Z,13Z,16Z,19Z))	1
+SOAT1 (pp) CE(22:5(4Z,7Z,10Z,13Z,16Z))	1
+SOAT1 (pp) R group 2 Coenzyme A	1
+Pyridoxine 5'-phosphate (pp) PDXK	1
+Pyridoxine 5'-phosphate (pp) PNPO	1
+GLA (pp) EHMT2	1
+GLA (pp) 4-Phosphopantothenoylcysteine	1
+GLA (pp) ZNF622	1
+GLA (pp) Sorbitol	1
+GLA (pp) FBXO6	1
+GLA (pp) Galactosylglycerol	9
+GLA (pp) Digalactosylceramide	5
+CROT (pp) ALB	3
+CROT (pp) Hexanoylcarnitine	3
+CROT (pp) PEX5	8
+CROT (pp) 4-Phosphopantothenoylcysteine	10
+CE(18:1(11Z)) (pp) SCARB1	4
+Gentisate aldehyde (pp) AOX1	11
+Gentisate aldehyde (pp) m/z=138.1318	11
+m/z=231.2157 (pp) Suberylglycine	8
+Uridine 2',3'-cyclic phosphate  (pp) m/z=306.1979	11
+Uridine 2',3'-cyclic phosphate  (pp) CNP	11
+Adenosine 3',5'-diphosphate (pp) m/z=427.1673	2
+Adenosine 3',5'-diphosphate (pp) SULT2B1	1
+Adenosine 3',5'-diphosphate (pp) SULT1A3	2
+Homocarnosine (pp) m/z=240.2128	5
+Homocarnosine (pp) m/z=240.2187	5
+m/z=292.2192 (pp) Canavaninosuccinate	11
+Hexanoylglycine (pp) m/z=173.1847	1
+SULT1A3 (pp) Norepinephrine sulfate	3
+SULT1A3 (pp) Pyrocatechol	1
+FAM96B (pp) PBLD	2
+FAM96B (pp) MMS19	3
+FAM96B (pp) ASL	1
+FDPS (pp) NME1	3
+FDPS (pp) MTHFD1	1
+FDPS (pp) ACSS2	3
+FDPS (pp) IDH1	3
+FDPS (pp) GCH1	2
+FDPS (pp) Geranyl-PP	2
+FDPS (pp) ERCC2	1
+FDPS (pp) Farnesyl pyrophosphate	2
+D-Xylose (pp) AKR1B1	1
+D-Xylose (pp) DHDH	1
+MTHFD1 (pp) MAT2A	1
+AK2 (pp) IDH1	1
+AK2 (pp) AGXT	1
+AK2 (pp) NME2	1
+Formic acid (pp) ACSS1	1
+Formic acid (pp) GCH1	1
+ALB (pp) APOC2	3
+ALB (pp) HP	1
+ALB (pp) LUC7L2	1
+Sorbitol (pp) m/z=182.1546	2
+HSPE1 (pp) IDH1	1
+ABCA1 (pp) AOX1	1
+ABCA1 (pp) L-Homoserine	1
+LUC7L2 (pp) PTN	1
+LUC7L2 (pp) ATP6V1C1	1
+LUC7L2 (pp) SETDB1	1
+LUC7L2 (pp) HDHD2	1
+D-Proline (pp) DAO	2
+Ammonia (pp) DAO	1
+Ammonia (pp) DDO	1
+m/z=140.9996 (pp) Carbamoyl phosphate	11
+AACS (pp) IDP	1
+RBL1 (pp) AOX1	1
+Argininosuccinic acid (pp) ASL	2
+EIF2S3 (pp) SRR	3
+EIF2S3 (pp) NDRG1	1
+EIF2S3 (pp) DUT	3
+EIF2S3 (pp) EIF2B1	2
+Pyridoxal (pp) AOX1	4
+Pyridoxal (pp) PDXK	1
+11-cis-Retinol (pp) RDH14	1
+11-cis-Retinol (pp) RDH13	1
+m/z=259.2095 (pp) N-Sulfo-D-glucosamine	11
+ILVBL (pp) Thiamine pyrophosphate	5
+ILVBL (pp) CLN3	2
+ILVBL (pp) MMS19	7
+ILVBL (pp) L-Threonine	9
+Leucodopachrome (pp) TYR	2
+4a-Hydroxytetrahydrobiopterin (pp) PAH	1
+4a-Hydroxytetrahydrobiopterin (pp) PCBD1	6
+4a-Hydroxytetrahydrobiopterin (pp) TH	1
+4a-Hydroxytetrahydrobiopterin (pp) m/z=257.2392	8
+4a-Hydroxytetrahydrobiopterin (pp) PCBD1	3
+4a-Hydroxytetrahydrobiopterin (pp) m/z=257.2392	3
+D-Alanine (pp) DAO	3
+NAD (pp) m/z=664.4413	11
+NAD (pp) NMNAT1	11
+PNP (pp) ZHX1	1
+PNP (pp) Guanine	2
+PNP (pp) CCDC90B	1
+PNP (pp) Deoxyuridine	4
+m/z=228.2331 (pp) Deoxyuridine	7
+m/z=228.2331 (pp) Deoxyuridine	4
+Nicotinic acid adenine dinucleotide (pp) NMNAT1	4
+m/z=72.0874 (pp) Pyruvaldehyde	8
+m/z=72.0874 (pp) Butanal	4
+TGM2 (pp) CSE1L	1
+TGM2 (pp) HP	1
+TGM2 (pp) SERPINF2	1
+TGM2 (pp) NME1	1
+TGM2 (pp) SMEK2	1
+L-prolyl-L-glycine  (pp) m/z=172.1402	11
+UAP1 (pp) THOP1	10
+NQO2 (pp) GORASP2	1
+NQO2 (pp) Hydroquinone	1
+Carbamoyl phosphate (pp) OTC	11
+Sulfate (pp) GCH1	6
+SLC25A19 (pp) Deoxyadenosine triphosphate	1
+SLC25A19 (pp) dCDP	11
+SLC25A19 (pp) dGTP	1
+SLC25A19 (pp) dTDP	9
+SLC25A19 (pp) Deoxyuridine triphosphate	4
+SLC25A19 (pp) dGDP	10
+SLC25A19 (pp) dCTP	11
+Guanine (pp) GCH1	2
+Guanine (pp) SLC29A2	2
+Guanine (pp) GDA	2
+SLC25A11 (pp) L-Histidine	10
+SLC25A11 (pp) CLN3	2
+SLC25A11 (pp) MMS19	7
+SLC25A11 (pp) HDAC5	1
+EIF3K (pp) MMS19	1
+EIF3K (pp) EIF3G	1
+m/z=322.2118 (pp) 5-Thymidylic acid	4
+CE(18:1(9Z)) (pp) SCARB1	6
+TG(18:2(9Z,12Z)/16:0/18:3(9Z,12Z,15Z))[iso6] (pp) m/z=853.3548	5
+TG(18:2(9Z,12Z)/16:0/18:3(9Z,12Z,15Z))[iso6] (pp) APOC2	3
+TG(18:2(9Z,12Z)/16:0/18:3(9Z,12Z,15Z))[iso6] (pp) AGPAT9	2
+EIF3G (pp) ACSS2	1
+EIF3G (pp) MPHOSPH6	1
+EIF3G (pp) RDH14	1
+EIF3G (pp) ADHFE1	1
+EIF3G (pp) AIFM1	1
+m/z=155.1592 (pp) L-Histidine	10
+ZMPSTE24 (pp) HAGH	1
+TYRP1 (pp) RAB5A	1
+TYRP1 (pp) TYR	1
+RAB5A (pp) SOD1	1
+dGTP (pp) m/z=507.2302	8
+dGTP (pp) CMPK1	2
+dGTP (pp) NME1	5
+dGTP (pp) NME2	1
+dGTP (pp) m/z=507.2302	1
+3-Deoxy-D-glycero-D-galacto-2-nonulosonic acid (pp) m/z=268.2379	7
+3-Deoxy-D-glycero-D-galacto-2-nonulosonic acid (pp) CMAS	7
+TERF2IP (pp) HAGH	1
+TERF2IP (pp) GAMT	1
+Hydrogen selenide (pp) m/z=80.9658	11
+Hydrogen selenide (pp) m/z=80.9664	11
+Xanthosine 5-triphosphate (pp) ITPA	2
+SCARB1 (pp) CE(20:3(8Z,11Z,14Z))	4
+SCARB1 (pp) PEX5	9
+SCARB1 (pp) CE(22:5(7Z,10Z,13Z,16Z,19Z))	4
+SCARB1 (pp) CE(22:5(4Z,7Z,10Z,13Z,16Z))	6
+SCARB1 (pp) FBXO6	1
+SCARB1 (pp) CE(20:3(5Z,8Z,11Z))	5
+SCARB1 (pp) PDZK1	2
+Uroporphyrinogen III (pp) m/z=836.7821	11
+m/z=173.1847 (pp) N-Acetylleucine	4
+m/z=173.1847 (pp) Isovalerylsarcosine	1
+m/z=173.1847 (pp) 2-Oxoarginine	5
+TYR (pp) Hydroquinone	2
+TYR (pp) L-Dopachrome	3
+TYR (pp) 5,6-Dihydroxyindole	3
+L-Dopachrome (pp) m/z=193.1152	7
+L-Dopachrome (pp) m/z=193.1189	7
+L-Dopachrome (pp) GSTK1	7
+N-Acetylleucine (pp) GLYAT	3
+Dihydroxyacetone Phosphate Acyl Ester (pp) m/z=198.0312	10
+Dihydroxyacetone Phosphate Acyl Ester (pp) GNPAT	10
+PDXK (pp) HIBCH	1
+m/z=853.3548 (pp) TG(18:1(9Z)/14:0/20:4(5Z,8Z,11Z,14Z))[iso6]	3
+SLC29A2 (pp) Uracil	1
+SLC29A2 (pp) Guanine	4
+m/z=254.2543 (pp) Galactosylglycerol	10
+m/z=254.2543 (pp) 5-L-Glutamyl-taurine	1
+UNC93B1 (pp) NPC1	1
+UNC93B1 (pp) LPGAT1	1
+3-Hydroxypropionyl-CoA (pp) HIBCH	4
+MPHOSPH6 (pp) RBM48	1
+MPHOSPH6 (pp) THOP1	1
+TKT (pp) PAH	1
+TKT (pp) Thiamine	1
+TKT (pp) TERF1	1
+CCDC90B (pp) PRDX5	1
+3-Methoxy-4-hydroxyphenylglycolaldehyde (pp) m/z=182.1546	3
+3-Methoxy-4-hydroxyphenylglycolaldehyde (pp) GCH1	3
+Norepinephrine sulfate (pp) m/z=249.2194	3
+ADSSL1 (pp) PPAT	1
+ADSSL1 (pp) PNPO	1
+m/z=193.1152 (pp) L-Dopachrome	3
+DTYMK (pp) 5-Thymidylic acid	4
+DTYMK (pp) dTDP	4
+WDYHV1 (pp) PCBD1	4
+WDYHV1 (pp) NME1	4
+PG(18:0/20:3(5Z,8Z,11Z)) (pp) LPGAT1	3
+PG(18:0/20:3(5Z,8Z,11Z)) (pp) m/z=801.0758	3
+HDAC5 (pp) GOT2	1
+HDAC5 (pp) TARS	1
+HDAC5 (pp) ALDH18A1	1
+HDAC5 (pp) NME1	1
+Dihydroxyacetone phosphate (pp) GNPAT	4
+m/z=387.1857 (pp) dCDP	11
+EIF2B1 (pp) GTPBP2	2
+m/z=332.2279 (pp) dIMP	11
+ADHFE1 (pp) ACSS2	3
+ADHFE1 (pp) PNPO	1
+ADHFE1 (pp) 5-Hydroxytryptophol	11
+ADHFE1 (pp) GOT1	4
+ADHFE1 (pp) ASL	2
+m/z=427.1673 (pp) dGDP	1
+m/z=427.1673 (pp) dGDP	10
+CBX3 (pp) EHMT2	2
+CBX3 (pp) IDH1	1
+CBX3 (pp) THOP1	1
+CBX3 (pp) OXCT1	2
+CBX3 (pp) PTMS	1
+CBX3 (pp) KDM5C	2
+D-Aspartic acid (pp) DDO	10
+D-Aspartic acid (pp) m/z=133.0768	10
+Glycocholic acid (pp) BAAT	1
+m/z=507.2302 (pp) Adenosine triphosphate	2
+m/z=507.2302 (pp) dGTP	1
+ASL (pp) SRR	3
+ASL (pp) Canavaninosuccinate	4
+ASL (pp) NAGS	1
+ASL (pp) ACSS2	2
+ASL (pp) IDH1	3
+ASL (pp) PSAT1	1
+ETFA (pp) UBA5	1
+ETFA (pp) HIBCH	1
+ENO2 (pp) TERF1	1
+m/z=403.1354 (pp) CDP	11
+NUDT18 (pp) PCBD1	5
+NUDT18 (pp) DUT	5
+DUT (pp) Pyrophosphate	7
+DUT (pp) Deoxyuridine triphosphate	5
+DUT (pp) Deoxyuridine triphosphate	4
+DUT (pp) dUMP	6
+DUT (pp) ATP6V1C1	4
+dCTP (pp) m/z=467.1661	11
+m/z=334.2378 (pp) Nicotinamide ribotide	11
+PPAT (pp) 5-Phosphoribosylamine	9
+PPAT (pp) MMS19	8
+SGSH (pp) N-Sulfo-D-glucosamine	11
+SGSH (pp) OXCT1	10
+SGSH (pp) FBXO6	1
+CMP-N-glycoloylneuraminate (pp) CMAS	11
+CMP-N-glycoloylneuraminate (pp) m/z=630.4733	11
+BAAT (pp) Propionic acid	1
+BAAT (pp) PEX5	1
+PRDX5 (pp) PTMS	1
+PRDX5 (pp) SOD1	1
+USP5 (pp) THTPA	1
+USP5 (pp) PRDX1	1
+PRDX1 (pp) SOD1	1
+TPK1 (pp) Thiamine	1
+TPK1 (pp) Thiamine pyrophosphate	1
+2-Oxoarginine (pp) DAO	5
+Phosphohydroxypyruvic acid (pp) PSAT1	2
+D-Ornithine (pp) DAO	4
+2,5-Diaminopyrimidine nucleoside triphosphate  (pp) m/z=513.1851	11
+2,5-Diaminopyrimidine nucleoside triphosphate  (pp) GCH1	11
+L-Aspartic acid (pp) GOT2	1
+L-Aspartic acid (pp) m/z=133.0768	1
+ASF1B (pp) IDH1	6
+ASF1B (pp) PSPH	6
+L-Serine (pp) SHMT2	1
+L-Serine (pp) m/z=105.0436	1
+m/z=119.0888 (pp) L-Homoserine	1
+m/z=119.0888 (pp) L-Threonine	10
+SBDS (pp) IDH1	1
+SBDS (pp) CLN3	1
+Butanal (pp) RDH13	3
+dTDP (pp) m/z=402.2085	6
+dTDP (pp) m/z=402.206	9
+dTDP (pp) NME1	5
+THOP1 (pp) NME1	4
+THOP1 (pp) IDH1	5
+THOP1 (pp) SORD	1
+L-Iditol (pp) m/z=182.1546	2
+L-Iditol (pp) SORD	2
+m/z=744.4168 (pp) NADP	11
+Mannitol (pp) m/z=182.1546	5
+Sorbitol (pp) m/z=182.1546	5
+Sorbitol (pp) AKR1B1	4
+Sorbitol (pp) AKR1A1	1
+Carnosine (pp) SLC15A2	1
+Carnosine (pp) SLC15A3	1
+L-Dopachrome (pp) m/z=193.1189	3
+ITPA (pp) 2'-Deoxyinosine triphosphate	4
+ITPA (pp) dIMP	4
+m/z=250.2239 (pp) Gamma-Glutamylcysteine	11
+TARS (pp) L-Threonine	1
+m/z=240.2128 (pp) Anserine	6
+Pyrophosphate (pp) CMAS	7
+Pyrophosphate (pp) NMNAT1	7
+GSS (pp) Gamma-Glutamylcysteine	6
+GSS (pp) TERF1	1
+Guanidine (pp) GAMT	6
+GADD45G (pp) HP	1
+GADD45G (pp) RDH13	1
+CLN3 (pp) LPGAT1	2
+CLN3 (pp) CSE1L	1
+Oxalosuccinic acid (pp) IDH1	10
+Oxalosuccinic acid (pp) m/z=190.1514	10
+GLO1 (pp) S-Lactoylglutathione	1
+GLO1 (pp) Pyruvaldehyde	5
+GLO1 (pp) DIP2B	2
+GLO1 (pp) PBLD	4
+SETDB1 (pp) ESCO1	2
+SETDB1 (pp) AIFM1	1
+m/z=229.0948 (pp) 5-Phosphoribosylamine	11
+IDH1 (pp) ZHX1	1
+IDH1 (pp) OXCT1	5
+IDH1 (pp) GOT1	4
+IDH1 (pp) NADP	11
+IDH1 (pp) NAGS	1
+IDH1 (pp) ANXA6	1
+IDH1 (pp) PBLD	3
+IDH1 (pp) SRR	1
+IDH1 (pp) PEX5	9
+IDH1 (pp) NME1	3
+IDH1 (pp) OTC	7
+IDH1 (pp) PSAT1	2
+IDH1 (pp) PTMS	8
+IDH1 (pp) PNPO	2
+GNPAT (pp) R total Coenzyme A	4
+GNPAT (pp) acyl-dihydroxyacetone phosphate	3
+GNPAT (pp) PEX5	10
+SLC15A2 (pp) PDZK1	1
+SHMT2 (pp) ATP6V1C1	1
+NME1 (pp) 2'-Deoxyinosine triphosphate	2
+NME1 (pp) 2'-Deoxyinosine triphosphate	4
+NME1 (pp) GORASP2	1
+NME1 (pp) Deoxyadenosine triphosphate	8
+NME1 (pp) Guanosine triphosphate	4
+NME1 (pp) Adenosine triphosphate	4
+NME1 (pp) Cytidine triphosphate	9
+NME1 (pp) SOD1	1
+NME1 (pp) dTDP	2
+NME1 (pp) dGDP	1
+NME1 (pp) CDP	8
+NME1 (pp) PRUNE	1
+NME1 (pp) IDP	1
+NME1 (pp) SORD	5
+NME1 (pp) Deoxyuridine triphosphate	5
+NME1 (pp) TERF1	2
+NME1 (pp) OXCT1	3
+NME2 (pp) ATP6V1C1	1
+NME2 (pp) Deoxyuridine triphosphate	1
+RBM48 (pp) GLYAT	1
+m/z=149.1352 (pp) 5,6-Dihydroxyindole	11
+PNPO (pp) SOD1	1
+PNPO (pp) GCH1	2
+PNPO (pp) Pyridoxal	2
+PNPO (pp) SRR	1
+PNPO (pp) Pyridoxal 5'-phosphate	1
+D-Serine (pp) SRR	5
+D-Serine (pp) m/z=105.0436	10
+D-Serine (pp) PSPH	5
+S-Lactoylglutathione (pp) HAGH	1
+Leukotriene C4 (pp) m/z=625.8178	4
+Leukotriene C4 (pp) GGT6	1
+Leukotriene C4 (pp) HIBCH	4
+m/z=402.2085 (pp) dTDP	4
+m/z=402.2085 (pp) dTDP	1
+Superoxide (pp) SOD1	1
+Hydroxyacetone (pp) AKR1A1	1
+Hydroxyacetone (pp) RDH13	1
+m/z=699.1371 (pp) CE(22:5(7Z,10Z,13Z,16Z,19Z))	4
+m/z=699.1371 (pp) CE(22:5(4Z,7Z,10Z,13Z,16Z))	7
+Deoxyuridine (pp) NT5M	7
+NT5M (pp) dIMP	7
+NT5M (pp) Uridine	3
+NT5M (pp) dUMP	6
+Adenosine triphosphate (pp) NMNAT1	4
+m/z=625.8178 (pp) Leukotriene C4	1
+m/z=625.8178 (pp) Leukotriene C4	6
+m/z=483.1805 (pp) Cytidine triphosphate	11
+DDT (pp) 5,6-Dihydroxyindole	1
+BCCIP (pp) SORD	1
+BCCIP (pp) PTN	1
+UBA5 (pp) THTPA	1
+DDO (pp) PEX5	10
+PAPD7 (pp) HIBCH	1
+Pyruvaldehyde (pp) AKR1B1	4
+DL-O-Phosphoserine (pp) PSAT1	5
+DL-O-Phosphoserine (pp) m/z=185.0502	11
+DL-O-Phosphoserine (pp) PSPH	7
+Thiamine pyrophosphate (pp) THTPA	5
+L-Arabitol (pp) AKR1B1	4
+L-Arabitol (pp) AKR1A1	1
+Hydroxypropionic acid (pp) HIBCH	4
+SULT2B1 (pp) Cholesterol	1
+SULT2B1 (pp) Dehydroepiandrosterone sulfate	1
+m/z=240.2187 (pp) Anserine	6
+DHDH (pp) Pyrocatechol	1
+FBXO6 (pp) PLOD2	1
+FBXO6 (pp) PON2	1
+FBXO6 (pp) NPC1	1
+EHMT2 (pp) ESCO1	3
+m/z=348.2202 (pp) Inosine 2'-phosphate	11
+NMNAT1 (pp) Nicotinamide ribotide	11
+ERCC2 (pp) MMS19	1
+ACSS2 (pp) SOD1	1
+ACSS2 (pp) DIP2B	2
+ACSS2 (pp) N-Acetylmannosamine	4
+ACSS2 (pp) HIBCH	4
+ACSS1 (pp) Deoxyadenosine triphosphate	1
+ACSS1 (pp) IDP	1
+ACSS1 (pp) N-Acetylmannosamine	4
+ACSS1 (pp) Propionic acid	1
+Superoxide (pp) SOD1	1
+SORD (pp) GCLM	5
+SORD (pp) GDA	2
+SORD (pp) AKR1B1	4
+CE(20:3(5Z,8Z,11Z)) (pp) m/z=675.0884	5
+Acetylglycine (pp) m/z=117.0635	5
+Acetylglycine (pp) GLYAT	4
+Acetylglycine (pp) m/z=117.0634	5
+AGXT (pp) PEX5	1
+AGPAT9 (pp) MAT2A	1
+AGPAT9 (pp) TG(18:1(9Z)/14:0/20:4(5Z,8Z,11Z,14Z))[iso6]	1
+AGPAT9 (pp) GTPBP2	2
+AOX1 (pp) 5-Hydroxyindoleacetic acid	4
+AOX1 (pp) IDP	1
+AOX1 (pp) Gentisic acid	11
+AOX1 (pp) Pyridoxal	2
+AOX1 (pp) N1-Methyl-2-pyridone-5-carboxamide	7
+Dehydroepiandrosterone sulfate (pp) SLCO1B3	1
+TG(18:1(9Z)/14:0/20:4(5Z,8Z,11Z,14Z))[iso6] (pp) PLIN4	2
+SLCO1B3 (pp) Leukotriene C4	1
+PEX14 (pp) PEX5	2
+PEX14 (pp) CNP	2
+PDZK1 (pp) PEX5	1
+Guanidoacetic acid (pp) GAMT	6
+Guanidoacetic acid (pp) m/z=117.0635	6
+Guanidoacetic acid (pp) m/z=117.0634	6
+ANXA6 (pp) MTAP	1
+THTPA (pp) TRMT1L	1
+THTPA (pp) KDM5C	2
+GSTK1 (pp) 5,6-Dihydroxyindole	7
+GSTK1 (pp) PEX5	7
+CASP8 (pp) CASP10	1
+CASP8 (pp) PLIN4	2
+CASP8 (pp) BCL2	1
+PON2 (pp) Hydroquinone	1
+PSAT1 (pp) NAGS	1
+PSAT1 (pp) PBLD	1
+BCL2 (pp) SOD1	1
+PECR (pp) PEX5	1
+Deoxyadenosine triphosphate (pp) CMPK1	2
+Cytidine triphosphate (pp) CMAS	4
+Cytidine triphosphate (pp) CMPK1	2
+m/z=260.1919 (pp) 5-Methylthioribose 1-phosphate	11
+Nicotinamide ribotide (pp) m/z=334.2224	11
+GOT1 (pp) MTAP	4
+Inosine 2'-phosphate (pp) CNP	11
+SOD1 (pp) CMPK1	1
+MLYCD (pp) PEX5	2
+Gentisic acid (pp) m/z=154.1292	11
+TERF1 (pp) GAMT	2
+TERF1 (pp) AKR1A1	1
+TYSND1 (pp) PEX5	1
+TYSND1 (pp) TH	1
+MMS19 (pp) CNP	8
+MMS19 (pp) CSE1L	1
+NAGS (pp) N-Acetylglutamic acid	2
+PTN (pp) GLYAT	2
+m/z=177.1662 (pp) 5-Hydroxytryptophol	11
+dTDP (pp) m/z=402.206	4
+CE(20:3(8Z,11Z,14Z)) (pp) m/z=675.0884	6
+5-Hydroxyindoleacetic acid (pp) GCH1	4
+5-Methylthioribose 1-phosphate (pp) MTAP	11
+PEX5 (pp) DAO	4
+GCH1 (pp) PBLD	3
+GCH1 (pp) Guanosine triphosphate	6
+Gamma-Glutamylcysteine (pp) GCLM	5
+Guanosine triphosphate (pp) CMPK1	2
+CDP (pp) CMPK1	3
+PBLD (pp) SRR	1
+OTC (pp) Deoxyadenosine triphosphate	1
+dTDP (pp) m/z=402.206	2
+Suberylglycine (pp) GLYAT	4
+CMPK1 (pp) Deoxyadenosine triphosphate	1
+N-Acetylglutamic acid (pp) GLYAT	1
+GGT6 (pp) 5-L-Glutamyl-taurine	1

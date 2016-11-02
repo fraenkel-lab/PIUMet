@@ -1,0 +1,30 @@
+Oct 21, 2016
+
+1) Run PIUMet on test_data; need this to be fast for debugging
+
+Approximately 340 seconds
+
+2) Copied main script to PIUMet_test.py for big changes
+
+- Changed optparser to argparser
+- Gives omegas, betas, and numRepeats as a comma-separated list of numbers on command line
+- parse_range from StackOverFlow puts those values from command line into Python lists
+- PCSF_run_class is now called for each value of w, b, and R
+- PIUMet_PCSFout_rand is now called for each value of w, b, and R
+- writing_output_summary_file now returns total number of nodes, number of peaks in HMDB and Recon, 
+  and number of peaks in PPMI
+
+- helper function runPCSF_R_times() now runs the optimization algorithm R times
+
+- helper function writing_output_summary_files
+  - calls writing_output_summary_file(w,b,R) to create
+    a unique text file for each combination of these parameters
+  - stores relevant size data to pass it to plot function later
+
+- helper function make_plot() creates plots that show 
+  how the number of peaks or the number of nodes vary w/ parameters
+
+- resulting_union_net_class now takes omegas, betas, and numRepeats as input parameters
+  - helper function results_2_files calls results_2_file(w,b,R) to create a unique text file for
+    each combination of these parameters
+  - results_2_file() now also outputs a text file containg all proteins

@@ -1,0 +1,6 @@
+Oct 19, 2016
+
+Running PIUMet with four different omega's
+
+python PIUMet_main.py -p /home/narek/PIUMet/PIUMet1.3/w=10/parameters.txt -o /home/narek/PIUMet/PIUMet1.3/w=10 -R 5
+ 

@@ -1,0 +1,417 @@
+m/z=59.0419	6	m/z Peak	 
+ELANE	5	Protein	 
+L-Arginine	1	Metabolite	HMDB00517
+Inosine	6	Metabolite	HMDB00195
+m/z=152.1077	6	m/z Peak	 
+m/z=579.2066	6	m/z Peak	 
+ASS1	6	Protein	 
+L-Serine	1	Metabolite	HMDB00187
+m/z=467.1381	6	m/z Peak	 
+m/z=433.1976	6	m/z Peak	 
+m/z=425.3357	6	m/z Peak	 
+SCLY	6	Protein	 
+Uridine 5'-monophosphate	3	Metabolite	HMDB00288
+Glucosamine-1P	6	Metabolite	HMDB01109
+Sulfate	2	Metabolite	HMDB01448
+m/z=135.0728	6	m/z Peak	 
+CNDP1	6	Protein	 
+CNDP2	6	Protein	 
+Hypoxanthine	1	Metabolite	HMDB00157
+MAX	1	Protein	 
+3-Dehydroquinate	6	Metabolite	HMDB12710
+Leucylglycine	1	Metabolite	-
+PHPT1	6	Protein	 
+Phenylacetyl-CoA	6	Metabolite	HMDB06503
+m/z=651.1449	6	m/z Peak	 
+DSTYK	1	Protein	 
+5-Thymidylic acid	5	Metabolite	HMDB01227
+IDP	1	Metabolite	HMDB03335
+MGST3	1	Protein	 
+UROD	6	Protein	 
+m/z=491.2027	6	m/z Peak	 
+m/z=96.0877	6	m/z Peak	 
+Adenosine tetraphosphate	6	Metabolite	HMDB01364
+PEPD	5	Protein	 
+Adenine	3	Metabolite	HMDB00034
+Adenine	3	Metabolite	HMDB00034
+m/z=402.381	6	m/z Peak	 
+m/z=823.5586	6	m/z Peak	 
+5-Amino-6-ribitylamino uracil	6	Metabolite	HMDB11106
+m/z=885.6883	6	m/z Peak	 
+Dihydroxyacetone phosphate	2	Metabolite	HMDB01473
+m/z=154.1303	6	m/z Peak	 
+m/z=771.9438	6	m/z Peak	 
+GART	1	Protein	 
+m/z=491.1006	6	m/z Peak	 
+GLYATL2	1	Protein	 
+GLYATL1	2	Protein	 
+SLC22A5	1	Protein	 
+D-Dopachrome	1	Metabolite	HMDB11622
+heparan sulfate, degradation product 12	1	Metabolite	-
+SOAT1	4	Protein	 
+GLA	1	Protein	 
+CROT	6	Protein	 
+CE(18:1(11Z))	3	Metabolite	HMDB05189
+Gentisate aldehyde	6	Metabolite	HMDB04062
+m/z=142.948	6	m/z Peak	 
+m/z=231.2157	5	m/z Peak	 
+m/z=682.2714	6	m/z Peak	 
+m/z=386.356	6	m/z Peak	 
+m/z=788.6309	6	m/z Peak	 
+Uridine 2',3'-cyclic phosphate 	6	Metabolite	HMDB11640
+Adenosine 3',5'-diphosphate	4	Metabolite	HMDB00061
+Homocarnosine	2	Metabolite	HMDB00745
+m/z=292.2192	6	m/z Peak	 
+m/z=402.4473	6	m/z Peak	 
+m/z=133.0768	6	m/z Peak	 
+SULT1A3	6	Protein	 
+SCAF4	1	Protein	 
+m/z=278.2543	6	m/z Peak	 
+APOBEC3C	1	Protein	 
+m/z=151.0205	6	m/z Peak	 
+GCH1	6	Protein	 
+Geranyl-PP	1	Metabolite	HMDB01285
+m/z=140.9996	6	m/z Peak	 
+Tyramine	1	Metabolite	HMDB00306
+m/z=343.0792	6	m/z Peak	 
+m/z=259.2095	6	m/z Peak	 
+ILVBL	3	Protein	 
+ITGB1	2	Protein	 
+heparan sulfate, degradation product 2	2	Metabolite	-
+Leucodopachrome	1	Metabolite	HMDB04067
+4a-Hydroxytetrahydrobiopterin	4	Metabolite	HMDB02281
+4a-Hydroxytetrahydrobiopterin	2	Metabolite	HMDB02281
+Isohomovanillic acid	3	Metabolite	HMDB00333
+TRIP13	2	Protein	 
+m/z=425.7801	6	m/z Peak	 
+NAD	6	Metabolite	HMDB00902
+m/z=435.0375	6	m/z Peak	 
+m/z=788.7354	6	m/z Peak	 
+m/z=306.1979	6	m/z Peak	 
+m/z=228.2331	6	m/z Peak	 
+m/z=250.2239	6	m/z Peak	 
+m/z=72.0874	6	m/z Peak	 
+TGM2	1	Protein	 
+m/z=236.9965	6	m/z Peak	 
+L-prolyl-L-glycine 	3	Metabolite	HMDB11178
+Carbamoyl phosphate	6	Metabolite	HMDB01096
+MIF	1	Protein	 
+Sulfate	6	Metabolite	HMDB01448
+4-Phosphopantothenoylcysteine	6	Metabolite	HMDB01117
+Galactitol	1	Metabolite	HMDB00107
+SLC25A19	6	Protein	 
+Guanine	1	Metabolite	HMDB00132
+SLC25A11	6	Protein	 
+SLC25A10	4	Protein	 
+m/z=322.2118	6	m/z Peak	 
+CE(18:1(9Z))	3	Metabolite	HMDB00918
+RELA	1	Protein	 
+ZMPSTE24	1	Protein	 
+dGTP	5	Metabolite	HMDB01440
+GUK1	1	Protein	 
+Hydrogen selenide	6	Metabolite	HMDB11110
+SCARB1	2	Protein	 
+m/z=851.822	6	m/z Peak	 
+Uroporphyrinogen III	6	Metabolite	HMDB01086
+m/z=173.1847	6	m/z Peak	 
+TYR	3	Protein	 
+L-Dopachrome	2	Metabolite	HMDB01430
+N-Acetylleucine	2	Metabolite	HMDB11756
+m/z=405.3076	6	m/z Peak	 
+Dihydroxyacetone Phosphate Acyl Ester	6	Metabolite	HMDB11750
+m/z=611.1973	6	m/z Peak	 
+m/z=853.3548	6	m/z Peak	 
+SLC29A3	3	Protein	 
+SLC29A2	6	Protein	 
+m/z=254.2543	6	m/z Peak	 
+m/z=788.3976	6	m/z Peak	 
+m/z=471.28	6	m/z Peak	 
+Propionyl-CoA	6	Metabolite	HMDB01275
+m/z=257.2392	6	m/z Peak	 
+Hypoxanthine	3	Metabolite	HMDB00157
+PNPO	3	Protein	 
+Uracil	5	Metabolite	HMDB00300
+Norepinephrine sulfate	6	Metabolite	HMDB02062
+m/z=769.2881	6	m/z Peak	 
+m/z=193.1152	6	m/z Peak	 
+DTYMK	1	Protein	 
+WDYHV1	3	Protein	 
+PG(18:0/20:3(8Z,11Z,14Z))	2	Metabolite	HMDB10609
+m/z=480.8878	6	m/z Peak	 
+L-prolyl-L-glycine 	1	Metabolite	HMDB11178
+heparan sulfate, degradation product 19	2	Metabolite	-
+m/z=387.1857	6	m/z Peak	 
+m/z=332.2279	6	m/z Peak	 
+m/z=80.9658	6	m/z Peak	 
+ADHFE1	6	Protein	 
+m/z=423.7295	6	m/z Peak	 
+m/z=427.1673	6	m/z Peak	 
+MXD4	1	Protein	 
+CBX3	4	Protein	 
+m/z=287.1172	6	m/z Peak	 
+Leukotriene C4	2	Metabolite	HMDB01198
+Cytidine triphosphate	6	Metabolite	HMDB00082
+m/z=471.2686	6	m/z Peak	 
+m/z=507.2302	6	m/z Peak	 
+5-Thymidylic acid	1	Metabolite	HMDB01227
+Digalactosylceramide	1	Metabolite	-
+CMP-N-glycoloylneuraminate	6	Metabolite	HMDB12206
+m/z=403.1354	6	m/z Peak	 
+Guanine	6	Metabolite	HMDB00132
+DUT	5	Protein	 
+Glycylproline	3	Metabolite	HMDB00721
+m/z=334.2378	6	m/z Peak	 
+m/z=659.6728	6	m/z Peak	 
+NADP	1	Metabolite	HMDB00217
+PPAT	5	Protein	 
+m/z=287.1186	6	m/z Peak	 
+SGSH	6	Protein	 
+PCBD1	3	Protein	 
+L-Methionine	1	Metabolite	HMDB00696
+TPK1	2	Protein	 
+2-Oxoarginine	2	Metabolite	HMDB04225
+L-Homoserine	1	Metabolite	HMDB00719
+RPE	1	Protein	 
+Galactosylglycerol	1	Metabolite	HMDB06790
+Glycineamideribotide	1	Metabolite	HMDB02022
+m/z=190.1514	6	m/z Peak	 
+Canavaninosuccinate	6	Metabolite	HMDB12197
+m/z=119.0888	6	m/z Peak	 
+dTDP	5	Metabolite	HMDB01274
+Butanal	4	Metabolite	HMDB03543
+dTDP	1	Metabolite	HMDB01274
+THOP1	6	Protein	 
+L-Iditol	1	Metabolite	HMDB11632
+m/z=744.4168	6	m/z Peak	 
+m/z=664.4413	6	m/z Peak	 
+Phenol	1	Metabolite	HMDB00228
+Sorbitol	5	Metabolite	HMDB00247
+OTC	6	Protein	 
+m/z=628.3715	6	m/z Peak	 
+ITPA	1	Protein	 
+Nicotinic acid adenine dinucleotide	1	Metabolite	HMDB01179
+m/z=514.3007	6	m/z Peak	 
+m/z=240.2128	6	m/z Peak	 
+m/z=345.078	6	m/z Peak	 
+Pyrophosphate	5	Metabolite	HMDB00250
+m/z=423.7831	6	m/z Peak	 
+m/z=268.2379	6	m/z Peak	 
+m/z=477.2152	6	m/z Peak	 
+m/z=138.1318	6	m/z Peak	 
+Guanidine	6	Metabolite	HMDB01842
+dCTP	6	Metabolite	HMDB00998
+m/z=391.0311	6	m/z Peak	 
+CLN3	2	Protein	 
+Oxalosuccinic acid	6	Metabolite	HMDB03974
+m/z=229.0948	6	m/z Peak	 
+IDH1	6	Protein	 
+m/z=190.1923	6	m/z Peak	 
+m/z=697.2893	6	m/z Peak	 
+GNPAT	6	Protein	 
+SLC15A1	1	Protein	 
+NME1	6	Protein	 
+m/z=80.9664	6	m/z Peak	 
+m/z=149.1352	6	m/z Peak	 
+m/z=135.1208	6	m/z Peak	 
+m/z=461.0908	6	m/z Peak	 
+D-Serine	6	Metabolite	HMDB03406
+AES	1	Protein	 
+m/z=857.4647	6	m/z Peak	 
+D-Aspartic acid	6	Metabolite	HMDB06483
+m/z=402.2085	6	m/z Peak	 
+GORASP2	3	Protein	 
+dGTP	2	Metabolite	HMDB01440
+Hydroxyacetone	4	Metabolite	HMDB06961
+m/z=626.4131	6	m/z Peak	 
+m/z=699.1371	6	m/z Peak	 
+Deoxyuridine	5	Metabolite	HMDB00012
+Deoxyuridine	1	Metabolite	HMDB00012
+NT5M	5	Protein	 
+L-Dopachrome	3	Metabolite	HMDB01430
+Adenosine triphosphate	1	Metabolite	HMDB00538
+m/z=625.8178	6	m/z Peak	 
+m/z=483.1805	6	m/z Peak	 
+NADP	6	Metabolite	HMDB00217
+m/z=276.2216	6	m/z Peak	 
+m/z=182.1546	6	m/z Peak	 
+m/z=447.2059	6	m/z Peak	 
+PARP2	1	Protein	 
+DDT	1	Protein	 
+m/z=375.0725	6	m/z Peak	 
+DDO	6	Protein	 
+DDC	1	Protein	 
+m/z=335.0458	6	m/z Peak	 
+Uridine diphosphate-N-acetylglucosamine	1	Metabolite	HMDB00290
+Pyruvaldehyde	1	Metabolite	HMDB01167
+DL-O-Phosphoserine	6	Metabolite	HMDB01721
+Thiamine pyrophosphate	6	Metabolite	HMDB01372
+L-Arabitol	6	Metabolite	HMDB01851
+Pyruvaldehyde	1	Metabolite	HMDB01167
+LAMTOR5	1	Protein	 
+m/z=587.2005	6	m/z Peak	 
+R total Coenzyme A	1	Metabolite	-
+VOPP1	1	Protein	 
+m/z=240.2187	6	m/z Peak	 
+R group 2 Coenzyme A	3	Metabolite	-
+m/z=177.1662	6	m/z Peak	 
+EHMT2	6	Protein	 
+m/z=348.2202	6	m/z Peak	 
+HPRT1	3	Protein	 
+N-Acetyl-L-aspartic acid	3	Metabolite	HMDB00812
+NMNAT1	6	Protein	 
+m/z=193.1189	6	m/z Peak	 
+m/z=836.7821	6	m/z Peak	 
+ACSS2	6	Protein	 
+ACSS1	6	Protein	 
+SORD	5	Protein	 
+Deoxyuridine triphosphate	5	Metabolite	HMDB01191
+Acetyl adenylate	2	Metabolite	HMDB06880
+CE(20:3(5Z,8Z,11Z))	1	Metabolite	HMDB10373
+m/z=317.1162	6	m/z Peak	 
+AKR1B1	5	Protein	 
+PNP	1	Protein	 
+m/z=385.7793	6	m/z Peak	 
+Acetylglycine	1	Metabolite	HMDB00532
+m/z=796.3867	6	m/z Peak	 
+SLC3A2	2	Protein	 
+m/z=775.8532	6	m/z Peak	 
+dUMP	4	Metabolite	HMDB01409
+dUMP	5	Metabolite	HMDB01409
+AOX1	6	Protein	 
+m/z=238.1481	6	m/z Peak	 
+5-Phosphoribosylamine	6	Metabolite	HMDB01128
+Leucylglycine	1	Metabolite	-
+LPGAT1	2	Protein	 
+PEX14	1	Protein	 
+N1-(alpha-D-ribosyl)-5,6-dimethyl-benzimidazole	6	Metabolite	HMDB11112
+B-Sulfinyl pyruvate	3	Metabolite	HMDB02332
+m/z=916.3394	6	m/z Peak	 
+SLC16A10	1	Protein	 
+m/z=531.1977	6	m/z Peak	 
+ACY3	3	Protein	 
+Guanidoacetic acid	5	Metabolite	HMDB00128
+cholesterol ester	2	Metabolite	-
+Pyridoxal 5'-phosphate	3	Metabolite	HMDB01491
+heparan sulfate, degradation product 1	1	Metabolite	-
+THTPA	4	Protein	 
+m/z=626.4147	6	m/z Peak	 
+m/z=405.1957	6	m/z Peak	 
+GSTK1	2	Protein	 
+m/z=636.414	6	m/z Peak	 
+Pyridoxal	3	Metabolite	HMDB01545
+m/z=700.4617	6	m/z Peak	 
+RDH13	4	Protein	 
+GSS	3	Protein	 
+Deoxyadenosine triphosphate	6	Metabolite	HMDB01532
+m/z=447.2061	6	m/z Peak	 
+m/z=773.0844	6	m/z Peak	 
+dIMP	6	Metabolite	HMDB06555
+m/z=260.1919	6	m/z Peak	 
+m/z=417.0281	6	m/z Peak	 
+Nicotinamide ribotide	6	Metabolite	HMDB00229
+m/z=793.3547	6	m/z Peak	 
+2,5-Diaminopyrimidine nucleoside triphosphate 	6	Metabolite	HMDB06821
+Inosine 2'-phosphate	6	Metabolite	HMDB11681
+FDPS	6	Protein	 
+dCDP	6	Metabolite	HMDB01245
+m/z=198.0312	6	m/z Peak	 
+m/z=519.0657	6	m/z Peak	 
+Gentisic acid	6	Metabolite	HMDB00152
+m/z=249.2194	6	m/z Peak	 
+PTMS	6	Protein	 
+ASF1B	3	Protein	 
+Propinol adenylate	1	Metabolite	HMDB06806
+m/z=501.174	6	m/z Peak	 
+m/z=326.1994	6	m/z Peak	 
+KDM5C	4	Protein	 
+2'-Deoxyinosine triphosphate	1	Metabolite	HMDB03537
+5,6-Dihydroxyindole	6	Metabolite	HMDB04058
+SLC7A5	1	Protein	 
+SLC7A3	1	Protein	 
+m/z=173.0569	6	m/z Peak	 
+Uridine	3	Metabolite	HMDB00296
+D-Alanyl-D-alanine	1	Metabolite	-
+MMS19	5	Protein	 
+NAGS	1	Protein	 
+TGFA	2	Protein	 
+m/z=334.2224	6	m/z Peak	 
+STYXL1	1	Protein	 
+m/z=185.0502	6	m/z Peak	 
+m/z=155.1592	6	m/z Peak	 
+CMAS	6	Protein	 
+SBDS	1	Protein	 
+Leukotriene C4	4	Metabolite	HMDB01198
+5-Hydroxytryptophol	6	Metabolite	HMDB01855
+dGDP	5	Metabolite	HMDB00960
+m/z=513.1851	6	m/z Peak	 
+CE(20:3(8Z,11Z,14Z))	5	Metabolite	HMDB06736
+L-Homoserine	1	Metabolite	HMDB00719
+5-Hydroxyindoleacetic acid	3	Metabolite	HMDB00763
+m/z=511.2325	6	m/z Peak	 
+UAP1	6	Protein	 
+Anserine	4	Metabolite	HMDB00194
+5-Methylthioribose 1-phosphate	6	Metabolite	HMDB00963
+AKR7A2	1	Protein	 
+FAM57A	1	Protein	 
+PEX5	6	Protein	 
+G6PD	1	Protein	 
+SHBG	1	Protein	 
+m/z=597.179	6	m/z Peak	 
+dGDP	4	Metabolite	HMDB00960
+Gamma-Glutamylcysteine	6	Metabolite	HMDB01049
+GAMT	5	Protein	 
+m/z=276.2344	6	m/z Peak	 
+m/z=796.16	6	m/z Peak	 
+m/z=117.0635	6	m/z Peak	 
+m/z=117.0634	6	m/z Peak	 
+PRUNE	1	Protein	 
+m/z=467.1661	6	m/z Peak	 
+m/z=259.131	6	m/z Peak	 
+Guanosine triphosphate	1	Metabolite	HMDB01273
+m/z=675.0884	6	m/z Peak	 
+m/z=105.0436	6	m/z Peak	 
+Leucylleucine	1	Metabolite	-
+m/z=197.0903	6	m/z Peak	 
+Butyrylcarnitine	1	Metabolite	HMDB02013
+CDP	6	Metabolite	HMDB01546
+m/z=532.2524	6	m/z Peak	 
+CDP	1	Metabolite	HMDB01546
+Isovalerylsarcosine	2	Metabolite	HMDB02087
+m/z=801.0758	2	m/z Peak	 
+Glycylproline	2	Metabolite	HMDB00721
+m/z=630.4733	6	m/z Peak	 
+Cytosine	5	Metabolite	HMDB00630
+PSPH	6	Protein	 
+m/z=172.1402	6	m/z Peak	 
+OXCT1	6	Protein	 
+m/z=479.0686	6	m/z Peak	 
+m/z=151.1151	6	m/z Peak	 
+m/z=612.4003	6	m/z Peak	 
+Suberylglycine	5	Metabolite	HMDB00953
+CE(22:5(7Z,10Z,13Z,16Z,19Z))	3	Metabolite	HMDB10375
+CE(22:5(4Z,7Z,10Z,13Z,16Z))	3	Metabolite	HMDB10374
+CDP	3	Metabolite	HMDB01546
+L-Dopa	3	Metabolite	HMDB00181
+GCLM	3	Protein	 
+ESCO1	6	Protein	 
+DAO	2	Protein	 
+N-Acetylglutamic acid	1	Metabolite	HMDB01138
+TH	3	Protein	 
+m/z=597.2209	6	m/z Peak	 
+L-Histidine	6	Metabolite	HMDB00177
+m/z=282.173	6	m/z Peak	 
+cholesterol ester	3	Metabolite	-
+CNP	6	Protein	 
+GGT7	2	Protein	 
+Glycyl-L-leucine	1	Metabolite	HMDB00759
+GGT5	3	Protein	 
+MTAP	6	Protein	 
+L-Threonine	4	Metabolite	HMDB00167
+5-L-Glutamyl-taurine	5	Metabolite	HMDB04195
+m/z=479.0729	6	m/z Peak	 
+m/z=421.3363	6	m/z Peak	 
+GLYAT	2	Protein	 
+N-Sulfo-D-glucosamine	6	Metabolite	HMDB01481
+N1-Methyl-4-pyridone-3-carboxamide	1	Metabolite	HMDB04194
+m/z=402.206	6	m/z Peak	 
+m/z=154.1292	6	m/z Peak	 

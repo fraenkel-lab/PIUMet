@@ -1,0 +1,26 @@
+class background_node_identification:
+
+- weird indenting
+- backgorund_pro not defined
+- last line should execute after for loop
+
+class PIUMetInput_randTer_object:
+
+- PIUMetInput_class not defined
+- if condition not continued
+- rand_ter not implemented
+- why so many imports
+
+class rand_interactome:
+
+- use spaces for indentation
+
+class resulting_union_net:
+
+- argument names should be lowercase
+- function names should be lowercase
+- whitespace around operators
+
+- #2 comment should be in node_edge_frq_calc function
+- use """ """ format to document functions
+- in ID_conversion_MCPid_2_commonName, if and elif conditions are not mutually exclusive

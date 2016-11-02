@@ -1,0 +1,9 @@
+Summary of the results, for the following parameters:
+w=25 ,D=10, mu=0.015, beta=4, mzW=0.99, Da=0.05 
+153 peaks are matched to 1132 metabolites in HMDB and Recon
+88 peaks are matched to 468 metabolites in the PPMI network
+The resulting network info:
+-Number of nodes=197
+-Number of edges=195
+-Number of m/z peaks in the results=74
+-Number of m/z peaks remain as singleton=31

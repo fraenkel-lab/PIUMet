@@ -1,0 +1,15 @@
+Oct 22, 2016
+
+1) Run updated version of PIUMet with this command
+
+python PIUMet_test.py -t /home/narek/PIUMet/PIUMet1.3/test_data/mz_terminal.txt -p /home/narek/PIUMet/PIUMet1.3/test_data/parameteres.txt -w 5,10 -b 4,6 -o /home/narek/PIUMet/PIUMet1.3/first_test -R 0
+
+2) More changes to PIUMet_test.py
+
+- helper function runPCSF() runs PCSF optimization for specific values of w and b (and of course the other parameters)
+- code reorganized so now a set of text files will be generates for each combination of w, b, and R
+- make_plot() updates to create all desired plots 
+- calculate_statistics() gets all the data that is necessary to write summari files, feeds that to
+  writing_output_summary_file, and also is used in main() to get the parameters to plot
+
+3) Run the final version of code in two shells for R=5 and R=10, w/ parameters w=5,10,15,20,25 and b=4,6,8,10 in both cases

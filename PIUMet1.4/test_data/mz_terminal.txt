@@ -1,0 +1,5 @@
+810.673	positive	4.2
+378.473	negative	6.1
+651.123	negative	4.5
+536.913	negative	3
+300.488	positive	4.9

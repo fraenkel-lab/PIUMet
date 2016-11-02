@@ -1,0 +1,14 @@
+1) Downloaded PIUMet1.4 and PIUMet1.5
+
+1.4 just added the new Murad's algorithm
+1.5 has a new way of inputing parameters - similar to mine - and also a new class for all file manipulations
+
+2) Copies PIUMet1.5 into my directory on the cluster
+
+cp -R /home/lpirhaji/PIUMet/PIUMet/PIUMet1.5 /home/narek/PIUMet/
+
+3) Run and optimize visualization code on PIUMet1.5 with dummy files first
+
+~200 seconds for one w, one beta, and ten different mu's
+
+python PIUMet_test.py -o /home/narek/PIUMet/PIUMet1.5/first_test

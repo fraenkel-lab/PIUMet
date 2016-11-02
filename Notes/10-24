@@ -1,0 +1,12 @@
+Oct 24, 2016
+
+- Code too slow! Have to kill R=10 to save Cluster 17. Run the following command to see active processes
+
+top
+
+- Talk to Scott to start using Node 12 or Node 18
+- Talk to Scott to install Tkinter
+
+To run PIUMet with dummy files (trying node18)
+
+python PIUMet_test.py -t /home/narek/PIUMet/PIUMet1.3/test_data/mz_terminal.txt -p /home/narek/PIUMet/PIUMet1.3/test_data/parameteres.txt -w 5 -b 4 -o /home/narek/PIUMet/PIUMet1.3/third_test -R 0

@@ -1,0 +1,7 @@
+Summary of the results, for the following parameters:
+w=20 ,D=10, mu=0.015, beta=4, mzW=0.99, Da=0.05 
+4 peaks are mathced to 18 metabolites in HMDB and Recon
+The resulting network info:
+-Number of nodes=17
+-Number of edges=18
+-Number of m/z peaks in the results=2

@@ -1,0 +1,18 @@
+class interactome:
+
+- function making netwrokx_object misspelled (is it called from anywhere else?)
+- should the normalizing_edge_weight fxn be implemented?
+
+class PIUMetinput
+
+- spelling in print statements
+- in mz_terminal_input, should self.mzMet_net_union be outside of the for loop?
+- in other_terminal_input, lists can be created inside if statements
+- in ID_conversion_HDMB_MCP_id, should be HMDB
+- should use """ """ for all these functions
+
+class PCSF_run_class
+
+- many attributes defined outside the __init__ method
+  self.dummyConn_net, self.msg_out_net, self.msg_out_edges, self.msg_run_info, self.inputFile
+- in msg_run, where is the actual algorithm 

@@ -1,0 +1,27 @@
+Oct 20, 2016
+
+1) Got the results of four different omegas - w = 10,15,20,25 - and three different repeats - R=0,5,10.
+
+All put in OldTerminalInput folder in PIUMet1.3
+
+2) Put a resulting_union_net file in Cytoscape
+
+- import as table
+- Selected Advanced options
+- Uncheck "Use first line as column names"
+- Name different columns - type, frq, HMDB_ID
+- In shape, go Column -> Type, then Mapping type -> Discrete Mapping
+  - metabolites: Round rectangle
+  - proteins: Ellipse
+  - m/z Peak: Triangle
+- In Fill Color, go Column -> Type, then Mapping type -> Discrete Mapping
+  - metabolites: Round rectangle
+  - proteins: Ellipse
+  - m/z Peak: Triangle
+
+3) Should run the same analysis on the new data, get more graphs
+
+4) Plot parameters vs size
+
+5) Do ontology on Go Gorilla
+

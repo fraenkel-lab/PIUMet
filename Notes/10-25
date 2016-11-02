@@ -1,0 +1,39 @@
+Oct 25, 2016
+
+1) Analysis of the data
+
+Run the script at
+
+2) Get Gene Ontology results
+
+3) Make a Cytoscape visualization
+
+w=5:
+
+nodes5 = [325, 343, 309, 339]
+edges5 = [435, 448, 380, 432] 
+singleton5 = [259, 269, 269, 269]
+
+w=10:
+
+nodes10 = [361, 355, 353, 403]
+edges10 = [479, 462, 452, 532] 
+singleton10 = [110, 193, 259, 269]
+
+w=15:
+
+nodes15 = [409, 400, 396, 441]
+edges15 = [554, 545, 529, 570] 
+singleton15 = [69, 110, 159, 224]
+
+w=20:
+
+nodes20 = [437, 420, 467, 555]
+edges20 = [594, 559, 600, 738] 
+singleton20 = [39, 76, 109, 144]
+
+w=25:
+
+nodes25 = [432, 477, 520, 494]
+edges25 = [594, 645, 687, 641] 
+singleton25 = [30, 55, 80, 109]
