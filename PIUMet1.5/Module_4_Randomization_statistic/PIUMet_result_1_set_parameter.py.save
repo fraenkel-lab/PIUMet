@@ -55,8 +55,6 @@ class PIUMet_result_1_set_parameter(object):
 	
 	#-------------------------------------------------------------------------------------
 	def calculate_statistics(self, PIUMet_input):
-		""" Computes all relevant attributes that will go into the summary text file """
-
     		# writing the info about m/z values.
     		nMZ = 0
     		nMZ_all_deg = 0
@@ -95,10 +93,10 @@ class PIUMet_result_1_set_parameter(object):
     		return nMZ, nMZ_all_deg, nMZ_ppmi, nMZ_result, nNode_tree, nEdge_tree, nMZ_all
 
 	#------------------------------------------------------------------------------------------
-	# this function will write a summary of the output files
+	#this function will write a summary of the output files
 	def writing_output_summary_file(self, result_path, w, beta, mu, Da, R, PIUMet_input):
 
-		# writing a summary file, including 1. #m/z 2. #machced metabolites 3. #matched metabolites in the interactome, 4. size of the network 5. summary of parameters
+		#writing a summary file, including 1. #m/z 2. #machced metabolites 3. #matched metabolites in the interactome, 4. size of the network 5. summary of parameters
 		print ("writing a result_summary file")
 		if result_path[:-1]=="/":
 			f=open(result_path+("result_summary_w%s_b%s_mu%s_R%s.txt" %( w, beta, mu, R)),'w')
@@ -112,15 +110,15 @@ class PIUMet_result_1_set_parameter(object):
 		nMZ, nMZ_all_deg, nMZ_ppmi, nMZ_result, nNode_tree, nEdge_tree, nMZ_all = self.calculate_statistics(PIUMet_input)
 
 		#-------------------------------------------
-		# writing the info about m/z values.
+		#writing the info about m/z values.
 		f.write(('%s peaks are matched to %s metabolites in HMDB and Recon\n') %(nMZ, nMZ_all_deg))
 
 		#-------------------------------------------
-		# writing about the peaks that their matched metabolites exist in the interactome
+		#writing about the peaks that their matched metabolites exist in the interactome
 		f.write(('%s peaks are mathced to %s metabolites in the PPMI network\n') %(nMZ_ppmi, len(PIUMet_input.mzMet_net_union.nodes())-nMZ_ppmi))
 
 		#-------------------------------------------
-		# now writing the statistics about results
+		#now writing the statistics about results
 		f.write("The resulting network info:\n")
 		f.write(("-Number of nodes=%s\n") %(str(nMZ_result+nNode_tree)))
 		f.write(("-Number of edges=%s\n") %(str(nEdge_tree)))
@@ -128,15 +126,10 @@ class PIUMet_result_1_set_parameter(object):
 		f.write(("-Number of m/z peaks remain as singleton=%s\n") %(str(nMZ_all-nMZ_result)))
 		f.close()
 	
-	#----------------------------------------------------------------------------------------------
-	# Extracts all features to plot
-	def extract_features(self, PIUMet_input):
-		""" Returns all the attributes we might be interested in plotting  """
-		nMZ, nMZ_all_deg, nMZ_ppmi, nMZ_result, nNode_tree, nEdge_tree, nMZ_all = self.calculate_statistics(PIUMet_input)
-		num_HMDB_peaks = nMZ
-                num_PPMI_peaks = nMZ_ppmi
-                num_peaks = nMZ_result
-                num_singleton_peaks = nMZ_all - nMZ_result
-                
-		return  num_HMDB_peaks, num_PPMI_peaks, num_peaks, num_singleton_peaks
 
+	def extract_features():
+		num_HMDB_peaks = nMZ
+                    num_PPMI_peaks = nMZ_ppmi
+                                num_peaks = nMZ_result
+                                num_singleton_peaks = nMZ_all - nMZ_result
+                                print num_HMDB_peaks, num_PPMI_peaks, num_peaks, num_singleton_peaks
